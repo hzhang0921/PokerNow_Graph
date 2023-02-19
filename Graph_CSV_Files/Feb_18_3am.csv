@@ -1,0 +1,2305 @@
+﻿entry,at,order
+"The player ""teddy @ kOMtSCwNxC"" quits the game with a stack of 0.00.",2023-02-17T19:03:29.190Z,1.68E+14
+-- ending hand #106 --,2023-02-17T19:03:21.181Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 32.02 from pot with A High on the second run  (combination: A‚ô†, K‚ô•, J‚ô¶, 10‚ô•, 7‚ô†)",2023-02-17T19:03:21.181Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 32.02 from pot with Pair, 10's (combination: 10‚ô¶, 10‚ô†, K‚ô¶, J‚ô¶, 8‚ô•)",2023-02-17T19:03:21.181Z,1.68E+14
+"River (second run): 7‚ô†, 2‚ô†, A‚ô†, K‚ô• [10‚ô•]",2023-02-17T19:03:17.074Z,1.68E+14
+"Turn (second run): 7‚ô†, 2‚ô†, A‚ô† [K‚ô•]",2023-02-17T19:03:13.034Z,1.68E+14
+"Flop (second run):  [7‚ô†, 2‚ô†, A‚ô†]",2023-02-17T19:03:09.020Z,1.68E+14
+"River: 8‚ô•, K‚ô¶, 5‚ô¶, 10‚ô¶ [10‚ô†]",2023-02-17T19:03:05.015Z,1.68E+14
+"Turn: 8‚ô•, K‚ô¶, 5‚ô¶ [10‚ô¶]",2023-02-17T19:03:01.006Z,1.68E+14
+"Flop:  [8‚ô•, K‚ô¶, 5‚ô¶]",2023-02-17T19:02:57.003Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 9‚ô•, 4‚ô¶.",2023-02-17T19:02:52.970Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 6‚ô•, J‚ô¶.",2023-02-17T19:02:52.970Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T19:02:52.145Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T19:02:52.145Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T19:02:51.891Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T19:02:51.225Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 32.02",2023-02-17T19:02:51.225Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 32.02 and go all in",2023-02-17T19:02:50.112Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T19:02:46.929Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T19:02:46.929Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (103.94) | #2 ""teddy @ kOMtSCwNxC"" (32.02)",2023-02-17T19:02:46.929Z,1.68E+14
+"-- starting hand #106 (id: brnwjicvywzb)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T19:02:46.929Z,1.68E+14
+-- ending hand #105 --,2023-02-17T19:02:38.921Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 32.02 from pot with Straight, 8 High on the second run  (combination: 8‚ô†, 7‚ô¶, 6‚ô•, 5‚ô£, 4‚ô†)",2023-02-17T19:02:38.921Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 32.02 from pot with Flush, 10d High (combination: 10‚ô¶, 9‚ô¶, 5‚ô¶, 4‚ô¶, 3‚ô¶, 2‚ô¶)",2023-02-17T19:02:38.921Z,1.68E+14
+"River (second run): 5‚ô£, 6‚ô•, J‚ô†, 2‚ô• [8‚ô†]",2023-02-17T19:02:34.832Z,1.68E+14
+"Turn (second run): 5‚ô£, 6‚ô•, J‚ô† [2‚ô•]",2023-02-17T19:02:30.792Z,1.68E+14
+"Flop (second run):  [5‚ô£, 6‚ô•, J‚ô†]",2023-02-17T19:02:26.717Z,1.68E+14
+"River: 5‚ô¶, 10‚ô¶, 4‚ô¶, 4‚ô• [2‚ô¶]",2023-02-17T19:02:22.712Z,1.68E+14
+"Turn: 5‚ô¶, 10‚ô¶, 4‚ô¶ [4‚ô•]",2023-02-17T19:02:18.622Z,1.68E+14
+"Flop:  [5‚ô¶, 10‚ô¶, 4‚ô¶]",2023-02-17T19:02:14.586Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 9‚ô¶, 3‚ô¶.",2023-02-17T19:02:10.504Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 7‚ô¶, 4‚ô†.",2023-02-17T19:02:10.504Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T19:02:09.625Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T19:02:09.625Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T19:02:09.488Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T19:02:08.744Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 32.02 and go all in",2023-02-17T19:02:08.744Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 32.02",2023-02-17T19:02:07.885Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T19:02:06.177Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T19:02:06.177Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (103.94) | #2 ""teddy @ kOMtSCwNxC"" (32.02)",2023-02-17T19:02:06.177Z,1.68E+14
+"-- starting hand #105 (id: d9jnimh8znke)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T19:02:06.177Z,1.68E+14
+-- ending hand #104 --,2023-02-17T19:01:58.171Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 32.02 from pot with Four of a Kind, 3's on the second run  (combination: 3‚ô•, 3‚ô£, 3‚ô¶, 3‚ô†, J‚ô†)",2023-02-17T19:01:58.171Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 32.02 from pot with Pair, Q's (combination: Q‚ô¶, Q‚ô£, A‚ô£, 10‚ô•, 9‚ô£)",2023-02-17T19:01:58.171Z,1.68E+14
+"River (second run): J‚ô†, 8‚ô†, 3‚ô¶, 2‚ô£ [3‚ô†]",2023-02-17T19:01:54.168Z,1.68E+14
+"Turn (second run): J‚ô†, 8‚ô†, 3‚ô¶ [2‚ô£]",2023-02-17T19:01:50.098Z,1.68E+14
+"Flop (second run):  [J‚ô†, 8‚ô†, 3‚ô¶]",2023-02-17T19:01:45.979Z,1.68E+14
+"River: A‚ô£, 6‚ô†, 7‚ô¶, Q‚ô£ [9‚ô£]",2023-02-17T19:01:41.975Z,1.68E+14
+"Turn: A‚ô£, 6‚ô†, 7‚ô¶ [Q‚ô£]",2023-02-17T19:01:37.971Z,1.68E+14
+"Flop:  [A‚ô£, 6‚ô†, 7‚ô¶]",2023-02-17T19:01:33.948Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a Q‚ô¶, 10‚ô•.",2023-02-17T19:01:29.890Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 3‚ô•, 3‚ô£.",2023-02-17T19:01:29.890Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T19:01:29.049Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T19:01:29.049Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T19:01:28.801Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T19:01:27.911Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 32.02",2023-02-17T19:01:27.911Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 32.02 and go all in",2023-02-17T19:01:27.005Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T19:01:23.948Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T19:01:23.948Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (103.94) | #2 ""teddy @ kOMtSCwNxC"" (32.02)",2023-02-17T19:01:23.948Z,1.68E+14
+"-- starting hand #104 (id: djdwh9sopcck)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T19:01:23.948Z,1.68E+14
+-- ending hand #103 --,2023-02-17T19:01:15.911Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 64.04 from pot with Three of a Kind, 9's on the second run  (combination: 9‚ô•, 9‚ô¶, 9‚ô†, A‚ô†, K‚ô¶)",2023-02-17T19:01:15.911Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 32.02 from pot with Full House, Q's over 10's (combination: Q‚ô•, Q‚ô£, Q‚ô¶, 10‚ô£, 10‚ô•)",2023-02-17T19:01:15.911Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 32.02 from pot with Full House, Q's over 10's (combination: Q‚ô•, Q‚ô£, Q‚ô¶, 10‚ô£, 10‚ô•)",2023-02-17T19:01:15.911Z,1.68E+14
+"River (second run): 6‚ô†, K‚ô¶, 8‚ô†, 9‚ô¶ [9‚ô†]",2023-02-17T19:01:11.907Z,1.68E+14
+"Turn (second run): 6‚ô†, K‚ô¶, 8‚ô† [9‚ô¶]",2023-02-17T19:01:07.904Z,1.68E+14
+"Flop (second run):  [6‚ô†, K‚ô¶, 8‚ô†]",2023-02-17T19:01:03.872Z,1.68E+14
+"River: Q‚ô•, Q‚ô£, 10‚ô£, 10‚ô• [Q‚ô¶]",2023-02-17T19:00:59.868Z,1.68E+14
+"Turn: Q‚ô•, Q‚ô£, 10‚ô£ [10‚ô•]",2023-02-17T19:00:55.738Z,1.68E+14
+"Flop:  [Q‚ô•, Q‚ô£, 10‚ô£]",2023-02-17T19:00:51.735Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 2‚ô•, K‚ô•.",2023-02-17T19:00:47.686Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a A‚ô†, 9‚ô•.",2023-02-17T19:00:47.686Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T19:00:46.880Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T19:00:46.880Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T19:00:46.798Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T19:00:46.064Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 64.04 and go all in",2023-02-17T19:00:46.064Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 64.04",2023-02-17T19:00:45.192Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T19:00:43.540Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T19:00:43.540Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (71.92) | #2 ""teddy @ kOMtSCwNxC"" (64.04)",2023-02-17T19:00:43.540Z,1.68E+14
+"-- starting hand #103 (id: 41w8q0xu30ja)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T19:00:43.540Z,1.68E+14
+-- ending hand #102 --,2023-02-17T19:00:35.521Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 35.96 from pot with Three of a Kind, A's on the second run  (combination: A‚ô¶, A‚ô•, A‚ô£, 10‚ô¶, 8‚ô•)",2023-02-17T19:00:35.521Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 35.96 from pot with Two Pair, A's & 8's (combination: A‚ô¶, A‚ô†, 8‚ô•, 8‚ô†, 10‚ô£)",2023-02-17T19:00:35.521Z,1.68E+14
+"River (second run): A‚ô•, 10‚ô¶, 6‚ô†, 3‚ô£ [A‚ô£]",2023-02-17T19:00:31.463Z,1.68E+14
+"Turn (second run): A‚ô•, 10‚ô¶, 6‚ô† [3‚ô£]",2023-02-17T19:00:27.454Z,1.68E+14
+"Flop (second run):  [A‚ô•, 10‚ô¶, 6‚ô†]",2023-02-17T19:00:23.394Z,1.68E+14
+"River: 8‚ô†, 10‚ô£, 5‚ô•, 2‚ô£ [A‚ô†]",2023-02-17T19:00:19.389Z,1.68E+14
+"Turn: 8‚ô†, 10‚ô£, 5‚ô• [2‚ô£]",2023-02-17T19:00:15.302Z,1.68E+14
+"Flop:  [8‚ô†, 10‚ô£, 5‚ô•]",2023-02-17T19:00:11.244Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 10‚ô•, 9‚ô•.",2023-02-17T19:00:07.239Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a A‚ô¶, 8‚ô•.",2023-02-17T19:00:07.239Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T19:00:06.407Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T19:00:06.407Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T19:00:06.273Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T19:00:05.213Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 35.96 and go all in",2023-02-17T19:00:05.213Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 35.96",2023-02-17T19:00:04.253Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T19:00:01.493Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T19:00:01.493Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (35.96) | #2 ""teddy @ kOMtSCwNxC"" (100.00)",2023-02-17T19:00:01.493Z,1.68E+14
+"-- starting hand #102 (id: ozmvzowodyfl)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T19:00:01.493Z,1.68E+14
+-- ending hand #101 --,2023-02-17T18:59:53.434Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 35.96 from pot with Pair, 6's on the second run  (combination: 6‚ô†, 6‚ô•, Q‚ô†, J‚ô¶, 10‚ô£)",2023-02-17T18:59:53.434Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 35.96 from pot with Pair, 8's (combination: 8‚ô•, 8‚ô¶, A‚ô¶, K‚ô£, Q‚ô£)",2023-02-17T18:59:53.434Z,1.68E+14
+"River (second run): 10‚ô£, J‚ô¶, 2‚ô•, Q‚ô† [6‚ô•]",2023-02-17T18:59:49.427Z,1.68E+14
+"Turn (second run): 10‚ô£, J‚ô¶, 2‚ô• [Q‚ô†]",2023-02-17T18:59:45.423Z,1.68E+14
+"Flop (second run):  [10‚ô£, J‚ô¶, 2‚ô•]",2023-02-17T18:59:41.352Z,1.68E+14
+"River: 10‚ô¶, 8‚ô•, 8‚ô¶, K‚ô£ [Q‚ô£]",2023-02-17T18:59:37.345Z,1.68E+14
+"Turn: 10‚ô¶, 8‚ô•, 8‚ô¶ [K‚ô£]",2023-02-17T18:59:33.343Z,1.68E+14
+"Flop:  [10‚ô¶, 8‚ô•, 8‚ô¶]",2023-02-17T18:59:29.339Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 6‚ô†, 7‚ô£.",2023-02-17T18:59:25.268Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a A‚ô¶, 4‚ô£.",2023-02-17T18:59:25.268Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:59:24.459Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:59:24.459Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:59:24.397Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:59:23.536Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 35.96",2023-02-17T18:59:23.536Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 35.96 and go all in",2023-02-17T18:59:22.614Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:59:20.467Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:59:20.467Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (35.96) | #2 ""teddy @ kOMtSCwNxC"" (100.00)",2023-02-17T18:59:20.467Z,1.68E+14
+"-- starting hand #101 (id: g2fb7muphmrj)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:59:20.467Z,1.68E+14
+-- ending hand #100 --,2023-02-17T18:59:12.463Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 35.96 from pot with Two Pair, 4's & 3's on the second run  (combination: 4‚ô†, 4‚ô£, 3‚ô¶, 3‚ô†, Q‚ô†)",2023-02-17T18:59:12.463Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 35.96 from pot with Two Pair, 10's & 9's (combination: 10‚ô¶, 10‚ô•, 9‚ô•, 9‚ô†, K‚ô•)",2023-02-17T18:59:12.463Z,1.68E+14
+"River (second run): 3‚ô¶, 4‚ô†, 3‚ô†, 2‚ô¶ [4‚ô£]",2023-02-17T18:59:08.453Z,1.68E+14
+"Turn (second run): 3‚ô¶, 4‚ô†, 3‚ô† [2‚ô¶]",2023-02-17T18:59:04.402Z,1.68E+14
+"Flop (second run):  [3‚ô¶, 4‚ô†, 3‚ô†]",2023-02-17T18:59:00.323Z,1.68E+14
+"River: 10‚ô•, 4‚ô¶, K‚ô•, 9‚ô• [9‚ô†]",2023-02-17T18:58:56.318Z,1.68E+14
+"Turn: 10‚ô•, 4‚ô¶, K‚ô• [9‚ô•]",2023-02-17T18:58:52.243Z,1.68E+14
+"Flop:  [10‚ô•, 4‚ô¶, K‚ô•]",2023-02-17T18:58:48.238Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 10‚ô¶, 5‚ô•.",2023-02-17T18:58:44.188Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a Q‚ô†, 2‚ô£.",2023-02-17T18:58:44.188Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:58:43.343Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:58:43.343Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:58:42.941Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:58:41.889Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 35.96 and go all in",2023-02-17T18:58:41.889Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 35.96",2023-02-17T18:58:40.279Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:58:37.232Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:58:37.232Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (35.96) | #2 ""teddy @ kOMtSCwNxC"" (100.00)",2023-02-17T18:58:37.232Z,1.68E+14
+"-- starting hand #100 (id: 1zx0vt0wpao2)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:58:37.232Z,1.68E+14
+-- ending hand #99 --,2023-02-17T18:58:29.212Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 50.00 from pot with A High on the second run  (combination: A‚ô£, K‚ô£, Q‚ô£, 9‚ô¶, 8‚ô•)",2023-02-17T18:58:29.212Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 50.00 from pot with Pair, A's (combination: A‚ô¶, A‚ô•, Q‚ô£, 9‚ô†, 8‚ô•)",2023-02-17T18:58:29.212Z,1.68E+14
+"River (second run): K‚ô£, 9‚ô¶, 7‚ô£, A‚ô£ [3‚ô¶]",2023-02-17T18:58:25.206Z,1.68E+14
+"Turn (second run): K‚ô£, 9‚ô¶, 7‚ô£ [A‚ô£]",2023-02-17T18:58:21.165Z,1.68E+14
+"Flop (second run):  [K‚ô£, 9‚ô¶, 7‚ô£]",2023-02-17T18:58:17.084Z,1.68E+14
+"River: A‚ô¶, A‚ô•, 5‚ô¶, 9‚ô† [2‚ô¶]",2023-02-17T18:58:12.997Z,1.68E+14
+"Turn: A‚ô¶, A‚ô•, 5‚ô¶ [9‚ô†]",2023-02-17T18:58:08.959Z,1.68E+14
+"Flop:  [A‚ô¶, A‚ô•, 5‚ô¶]",2023-02-17T18:58:04.878Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a Q‚ô£, 8‚ô•.",2023-02-17T18:58:00.868Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a Q‚ô†, 6‚ô¶.",2023-02-17T18:58:00.868Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:58:00.020Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:58:00.020Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:57:59.878Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:57:59.029Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 50.00 and go all in",2023-02-17T18:57:59.029Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 50.00",2023-02-17T18:57:58.165Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:57:55.663Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:57:55.663Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (85.96) | #2 ""teddy @ kOMtSCwNxC"" (50.00)",2023-02-17T18:57:55.663Z,1.68E+14
+"-- starting hand #99 (id: jzr1nqrtpxqt)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:57:55.663Z,1.68E+14
+-- ending hand #98 --,2023-02-17T18:57:47.659Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 50.00 from pot with Two Pair, K's & 7's on the second run  (combination: K‚ô†, K‚ô¶, 7‚ô£, 7‚ô¶, 5‚ô¶)",2023-02-17T18:57:47.659Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 50.00 from pot with Two Pair, J's & 2's (combination: J‚ô•, J‚ô£, 2‚ô•, 2‚ô†, K‚ô£)",2023-02-17T18:57:47.659Z,1.68E+14
+"River (second run): 5‚ô†, K‚ô¶, 3‚ô£, 7‚ô£ [7‚ô¶]",2023-02-17T18:57:43.586Z,1.68E+14
+"Turn (second run): 5‚ô†, K‚ô¶, 3‚ô£ [7‚ô£]",2023-02-17T18:57:39.542Z,1.68E+14
+"Flop (second run):  [5‚ô†, K‚ô¶, 3‚ô£]",2023-02-17T18:57:35.537Z,1.68E+14
+"River: 9‚ô£, 10‚ô¶, K‚ô£, J‚ô£ [2‚ô†]",2023-02-17T18:57:31.534Z,1.68E+14
+"Turn: 9‚ô£, 10‚ô¶, K‚ô£ [J‚ô£]",2023-02-17T18:57:27.436Z,1.68E+14
+"Flop:  [9‚ô£, 10‚ô¶, K‚ô£]",2023-02-17T18:57:23.371Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a J‚ô•, 2‚ô•.",2023-02-17T18:57:19.329Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 5‚ô¶, K‚ô†.",2023-02-17T18:57:19.329Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:57:18.439Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:57:18.439Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:57:18.080Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:57:17.418Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 50.00",2023-02-17T18:57:17.418Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 50.00 and go all in",2023-02-17T18:57:16.044Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:57:13.165Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:57:13.165Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (85.96) | #2 ""teddy @ kOMtSCwNxC"" (50.00)",2023-02-17T18:57:13.165Z,1.68E+14
+"-- starting hand #98 (id: gjybldcddnkj)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:57:13.165Z,1.68E+14
+-- ending hand #97 --,2023-02-17T18:57:05.159Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 50.00 from pot with Two Pair, K's & 5's on the second run  (combination: K‚ô†, K‚ô£, 5‚ô•, 5‚ô¶, 8‚ô£)",2023-02-17T18:57:05.159Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 50.00 from pot with Pair, 4's (combination: 4‚ô•, 4‚ô¶, A‚ô¶, Q‚ô•, 9‚ô•)",2023-02-17T18:57:05.159Z,1.68E+14
+"River (second run): 2‚ô£, 5‚ô•, 8‚ô£, 5‚ô¶ [K‚ô£]",2023-02-17T18:57:01.151Z,1.68E+14
+"Turn (second run): 2‚ô£, 5‚ô•, 8‚ô£ [5‚ô¶]",2023-02-17T18:56:57.120Z,1.68E+14
+"Flop (second run):  [2‚ô£, 5‚ô•, 8‚ô£]",2023-02-17T18:56:53.088Z,1.68E+14
+"River: A‚ô¶, Q‚ô•, 6‚ô¶, 3‚ô¶ [4‚ô¶]",2023-02-17T18:56:49.077Z,1.68E+14
+"Turn: A‚ô¶, Q‚ô•, 6‚ô¶ [3‚ô¶]",2023-02-17T18:56:45.018Z,1.68E+14
+"Flop:  [A‚ô¶, Q‚ô•, 6‚ô¶]",2023-02-17T18:56:41.012Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 4‚ô•, 9‚ô•.",2023-02-17T18:56:36.909Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a K‚ô†, 3‚ô£.",2023-02-17T18:56:36.909Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:56:36.083Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:56:36.083Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:56:36.029Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:56:35.282Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 50.00 and go all in",2023-02-17T18:56:35.282Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 50.00",2023-02-17T18:56:34.384Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:56:31.896Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:56:31.896Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (85.96) | #2 ""teddy @ kOMtSCwNxC"" (50.00)",2023-02-17T18:56:31.896Z,1.68E+14
+"-- starting hand #97 (id: rkkgbv1hw4qn)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:56:31.896Z,1.68E+14
+-- ending hand #96 --,2023-02-17T18:56:23.890Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 50.00 from pot with Three of a Kind, 2's on the second run  (combination: 2‚ô†, 2‚ô¶, 2‚ô£, A‚ô†, 10‚ô•)",2023-02-17T18:56:23.890Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 50.00 from pot with Flush, Ac High (combination: A‚ô£, Q‚ô£, J‚ô£, 8‚ô£, 6‚ô£)",2023-02-17T18:56:23.890Z,1.68E+14
+"River (second run): A‚ô†, 10‚ô•, 9‚ô£, 2‚ô£ [3‚ô†]",2023-02-17T18:56:19.886Z,1.68E+14
+"Turn (second run): A‚ô†, 10‚ô•, 9‚ô£ [2‚ô£]",2023-02-17T18:56:15.850Z,1.68E+14
+"Flop (second run):  [A‚ô†, 10‚ô•, 9‚ô£]",2023-02-17T18:56:11.843Z,1.68E+14
+"River: 6‚ô£, Q‚ô£, 3‚ô•, A‚ô£ [8‚ô£]",2023-02-17T18:56:07.745Z,1.68E+14
+"Turn: 6‚ô£, Q‚ô£, 3‚ô• [A‚ô£]",2023-02-17T18:56:03.732Z,1.68E+14
+"Flop:  [6‚ô£, Q‚ô£, 3‚ô•]",2023-02-17T18:55:59.726Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 2‚ô†, 2‚ô¶.",2023-02-17T18:55:55.724Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 6‚ô†, J‚ô£.",2023-02-17T18:55:55.724Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:55:54.886Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:55:54.886Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:55:54.499Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:55:53.856Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 50.00",2023-02-17T18:55:53.856Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 50.00 and go all in",2023-02-17T18:55:52.729Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:55:49.997Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:55:49.997Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (85.96) | #2 ""teddy @ kOMtSCwNxC"" (50.00)",2023-02-17T18:55:49.997Z,1.68E+14
+"-- starting hand #96 (id: gghhlu9synaq)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:55:49.997Z,1.68E+14
+"The player ""teddy @ kOMtSCwNxC"" joined the game with a stack of 50.00.",2023-02-17T18:55:49.997Z,1.68E+14
+"The player ""Haoyang Zhang @ QntlFAl8Rf"" stand up with the stack of 18.04.",2023-02-17T18:55:49.997Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 6‚ô†, 8‚ô†.",2023-02-17T18:55:48.237Z,1.68E+14
+-- ending hand #95 --,2023-02-17T18:55:43.392Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 0.16 from pot",2023-02-17T18:55:43.392Z,1.68E+14
+"Uncalled bet of 0.16 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:55:43.392Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:55:42.518Z,1.68E+14
+"The admin approved the player ""teddy @ kOMtSCwNxC"" participation with a stack of 50.00.",2023-02-17T18:55:36.998Z,1.68E+14
+"The player ""teddy @ kOMtSCwNxC"" requested a seat.",2023-02-17T18:55:31.691Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.24",2023-02-17T18:55:21.605Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:55:18.395Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:55:18.395Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (85.88) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (18.12)",2023-02-17T18:55:18.395Z,1.68E+14
+"-- starting hand #95 (id: 6o0yjicpshqw)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:55:18.395Z,1.68E+14
+"The player ""teddy @ kOMtSCwNxC"" quits the game with a stack of 0.00.",2023-02-17T18:55:18.395Z,1.68E+14
+-- ending hand #94 --,2023-02-17T18:55:10.380Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 5.30 from pot with Pair, Q's on the second run  (combination: Q‚ô¶, Q‚ô£, K‚ô¶, J‚ô•, 9‚ô£)",2023-02-17T18:55:10.380Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 5.30 from pot with Pair, J's (combination: J‚ô†, J‚ô¶, Q‚ô¶, 9‚ô£, 8‚ô¶)",2023-02-17T18:55:10.380Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 18.12 from pot with Pair, Q's on the second run  (combination: Q‚ô¶, Q‚ô£, K‚ô¶, J‚ô•, 9‚ô£)",2023-02-17T18:55:10.380Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 18.12 from pot with Two Pair, J's & 8's (combination: J‚ô†, J‚ô¶, 8‚ô£, 8‚ô¶, 9‚ô¶)",2023-02-17T18:55:10.380Z,1.68E+14
+"River (second run): J‚ô•, 7‚ô†, K‚ô¶, 6‚ô¶ [Q‚ô£]",2023-02-17T18:55:06.342Z,1.68E+14
+"Turn (second run): J‚ô•, 7‚ô†, K‚ô¶ [6‚ô¶]",2023-02-17T18:55:02.331Z,1.68E+14
+"Flop (second run):  [J‚ô•, 7‚ô†, K‚ô¶]",2023-02-17T18:54:58.309Z,1.68E+14
+"River: 8‚ô¶, J‚ô†, J‚ô¶, 3‚ô£ [7‚ô£]",2023-02-17T18:54:54.287Z,1.68E+14
+"Turn: 8‚ô¶, J‚ô†, J‚ô¶ [3‚ô£]",2023-02-17T18:54:50.285Z,1.68E+14
+"Flop:  [8‚ô¶, J‚ô†, J‚ô¶]",2023-02-17T18:54:46.281Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 8‚ô£, 9‚ô¶.",2023-02-17T18:54:42.252Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 6‚ô†, 5‚ô†.",2023-02-17T18:54:42.252Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 9‚ô£, Q‚ô¶.",2023-02-17T18:54:42.252Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:54:41.416Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:54:41.416Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" chooses to  run it twice.",2023-02-17T18:54:40.820Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:54:39.837Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:54:38.698Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 12.08 and go all in",2023-02-17T18:54:38.698Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 17.38 and go all in",2023-02-17T18:54:35.693Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 17.38",2023-02-17T18:54:34.580Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:54:32.584Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:54:29.914Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:54:29.914Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (74.54) | #2 ""teddy @ kOMtSCwNxC"" (17.38) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (12.08)",2023-02-17T18:54:29.914Z,1.68E+14
+"-- starting hand #94 (id: 0gwuborgnrg3)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:54:29.914Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 6‚ô•, 4‚ô£.",2023-02-17T18:54:27.806Z,1.68E+14
+-- ending hand #93 --,2023-02-17T18:54:23.306Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 0.20 from pot",2023-02-17T18:54:23.306Z,1.68E+14
+"Uncalled bet of 17.18 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:54:23.306Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:54:22.500Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:54:21.615Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 17.26 and go all in",2023-02-17T18:54:19.538Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:54:15.705Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:54:15.705Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (74.62) | #2 ""teddy @ kOMtSCwNxC"" (17.26) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (12.12)",2023-02-17T18:54:15.705Z,1.68E+14
+"-- starting hand #93 (id: wo0q6gv77w9x)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:54:15.705Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 10‚ô¶, K‚ô£.",2023-02-17T18:54:12.761Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 6‚ô¶, 9‚ô£.",2023-02-17T18:54:11.086Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 3‚ô¶, 8‚ô¶.",2023-02-17T18:54:09.916Z,1.68E+14
+-- ending hand #92 --,2023-02-17T18:54:07.701Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 0.84 from pot",2023-02-17T18:54:07.701Z,1.68E+14
+"Uncalled bet of 0.84 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:54:07.701Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:54:06.874Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:54:05.663Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.84",2023-02-17T18:54:04.708Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:54:02.159Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:54:00.937Z,1.68E+14
+"Flop:  [J‚ô£, 2‚ô£, J‚ô¶]",2023-02-17T18:53:59.006Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:53:58.097Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:53:56.751Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:53:55.479Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:53:49.988Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:53:49.988Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (74.06) | #2 ""teddy @ kOMtSCwNxC"" (17.54) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (12.40)",2023-02-17T18:53:49.988Z,1.68E+14
+"-- starting hand #92 (id: v3x1xsuynx01)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:53:49.988Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a A‚ô£, 3‚ô¶.",2023-02-17T18:53:42.199Z,1.68E+14
+-- ending hand #91 --,2023-02-17T18:53:41.408Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 17.54 from pot with Two Pair, A's & 8's on the second run  (combination: A‚ô¶, A‚ô•, 8‚ô¶, 8‚ô†, Q‚ô¶)",2023-02-17T18:53:41.408Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 17.54 from pot with Two Pair, K's & 4's (combination: K‚ô£, K‚ô†, 4‚ô¶, 4‚ô•, 6‚ô£)",2023-02-17T18:53:41.408Z,1.68E+14
+"River (second run): A‚ô¶, 10‚ô•, A‚ô•, 8‚ô† [J‚ô•]",2023-02-17T18:53:37.405Z,1.68E+14
+"Turn (second run): A‚ô¶, 10‚ô•, A‚ô• [8‚ô†]",2023-02-17T18:53:33.401Z,1.68E+14
+"Flop (second run):  [A‚ô¶, 10‚ô•, A‚ô•]",2023-02-17T18:53:29.388Z,1.68E+14
+"River: K‚ô†, 5‚ô•, 4‚ô¶, 4‚ô• [2‚ô£]",2023-02-17T18:53:25.332Z,1.68E+14
+"Turn: K‚ô†, 5‚ô•, 4‚ô¶ [4‚ô•]",2023-02-17T18:53:21.269Z,1.68E+14
+"Flop:  [K‚ô†, 5‚ô•, 4‚ô¶]",2023-02-17T18:53:17.264Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 8‚ô¶, Q‚ô¶.",2023-02-17T18:53:13.258Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a K‚ô£, 6‚ô£.",2023-02-17T18:53:13.258Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:53:12.426Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:53:12.426Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:53:11.921Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:53:11.242Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 17.50",2023-02-17T18:53:11.242Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:53:10.021Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 17.50 and go all in",2023-02-17T18:53:07.665Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.08",2023-02-17T18:53:05.081Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:53:04.172Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:53:01.623Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:53:01.623Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (74.02) | #2 ""teddy @ kOMtSCwNxC"" (17.50) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (12.48)",2023-02-17T18:53:01.623Z,1.68E+14
+"-- starting hand #91 (id: s8euibqi0eko)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:53:01.623Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 4‚ô¶, J‚ô•.",2023-02-17T18:52:56.254Z,1.68E+14
+-- ending hand #90 --,2023-02-17T18:52:55.099Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 12.48 from pot with Full House, 7's over 2's (combination: 7‚ô¶, 7‚ô£, 7‚ô•, 2‚ô£, 2‚ô†)",2023-02-17T18:52:55.099Z,1.68E+14
+"River: 2‚ô£, 7‚ô£, 7‚ô•, 2‚ô† [K‚ô¶]",2023-02-17T18:52:51.014Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 10‚ô£, 7‚ô¶.",2023-02-17T18:52:46.952Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 2‚ô•, 4‚ô†.",2023-02-17T18:52:46.952Z,1.68E+14
+Some players choose to not run it twice.,2023-02-17T18:52:46.124Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" chooses to not run it twice.",2023-02-17T18:52:46.124Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:52:44.904Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:52:43.614Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 4.32",2023-02-17T18:52:43.614Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:52:42.124Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" raises to 4.32 and go all in",2023-02-17T18:52:40.798Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 3.84",2023-02-17T18:52:36.868Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:52:33.994Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:52:28.527Z,1.68E+14
+"Turn: 2‚ô£, 7‚ô£, 7‚ô• [2‚ô†]",2023-02-17T18:52:25.986Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.96",2023-02-17T18:52:25.139Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.96",2023-02-17T18:52:21.374Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.96",2023-02-17T18:52:20.462Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:52:18.320Z,1.68E+14
+"Flop:  [2‚ô£, 7‚ô£, 7‚ô•]",2023-02-17T18:52:15.381Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.32",2023-02-17T18:52:14.574Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.32",2023-02-17T18:52:13.174Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.32",2023-02-17T18:52:12.270Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:52:10.029Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:52:08.855Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:52:06.447Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:52:06.447Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (75.30) | #2 ""teddy @ kOMtSCwNxC"" (23.10) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (5.60)",2023-02-17T18:52:06.447Z,1.68E+14
+"-- starting hand #90 (id: smflbxe3wi1k)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:52:06.447Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 7‚ô†, 5‚ô£.",2023-02-17T18:52:02.566Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 9‚ô¶, Q‚ô•.",2023-02-17T18:52:02.115Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 4‚ô†, Q‚ô£.",2023-02-17T18:51:59.664Z,1.68E+14
+-- ending hand #89 --,2023-02-17T18:51:58.403Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 0.64 from pot",2023-02-17T18:51:58.403Z,1.68E+14
+"Uncalled bet of 22.46 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:51:58.403Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:51:57.596Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:51:56.757Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 22.74 and go all in",2023-02-17T18:51:55.327Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:51:52.253Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:51:50.546Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:51:50.546Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (75.58) | #2 ""teddy @ kOMtSCwNxC"" (22.74) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (5.68)",2023-02-17T18:51:50.546Z,1.68E+14
+"-- starting hand #89 (id: rs4hw2m1iykt)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:51:50.546Z,1.68E+14
+-- ending hand #88 --,2023-02-17T18:51:44.536Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 6.48 from pot with Three of a Kind, A's (combination: A‚ô¶, A‚ô£, A‚ô†, K‚ô£, 6‚ô†)",2023-02-17T18:51:44.536Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a A‚ô¶, 6‚ô†.",2023-02-17T18:51:44.536Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 2.88",2023-02-17T18:51:43.727Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 2.88",2023-02-17T18:51:42.487Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.72",2023-02-17T18:51:40.639Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:51:37.808Z,1.68E+14
+"River: A‚ô£, K‚ô£, 2‚ô†, 3‚ô£ [A‚ô†]",2023-02-17T18:51:36.309Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:51:35.446Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:51:33.304Z,1.68E+14
+"Turn: A‚ô£, K‚ô£, 2‚ô† [3‚ô£]",2023-02-17T18:51:31.109Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:51:30.296Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.24",2023-02-17T18:51:29.147Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.24",2023-02-17T18:51:28.028Z,1.68E+14
+"Flop:  [A‚ô£, K‚ô£, 2‚ô†]",2023-02-17T18:51:26.107Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:51:25.259Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.08",2023-02-17T18:51:21.186Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:51:20.220Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:51:17.265Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:51:17.265Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (72.30) | #2 ""teddy @ kOMtSCwNxC"" (25.94) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (5.76)",2023-02-17T18:51:17.265Z,1.68E+14
+"-- starting hand #88 (id: kudwavkarxsf)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:51:17.265Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a A‚ô¶, 5‚ô¶.",2023-02-17T18:51:14.823Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a A‚ô•, 7‚ô¶.",2023-02-17T18:51:13.799Z,1.68E+14
+-- ending hand #87 --,2023-02-17T18:51:12.903Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 6.48 from pot",2023-02-17T18:51:12.903Z,1.68E+14
+"Uncalled bet of 19.46 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:51:12.903Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:51:12.076Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 19.46 and go all in",2023-02-17T18:50:53.668Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:50:51.498Z,1.68E+14
+"River: Q‚ô£, 9‚ô†, 10‚ô£, Q‚ô† [5‚ô†]",2023-02-17T18:50:47.748Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 2.16",2023-02-17T18:50:46.941Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 2.16",2023-02-17T18:50:45.894Z,1.68E+14
+"Turn: Q‚ô£, 9‚ô†, 10‚ô£ [Q‚ô†]",2023-02-17T18:50:43.142Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.72",2023-02-17T18:50:42.282Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.72",2023-02-17T18:50:41.218Z,1.68E+14
+"Flop:  [Q‚ô£, 9‚ô†, 10‚ô£]",2023-02-17T18:50:37.827Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:50:36.953Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.32",2023-02-17T18:50:34.946Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.32",2023-02-17T18:50:32.603Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:50:30.288Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:50:29.075Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:50:27.448Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:50:27.448Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (75.50) | #2 ""teddy @ kOMtSCwNxC"" (22.66) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (5.84)",2023-02-17T18:50:27.448Z,1.68E+14
+"-- starting hand #87 (id: vqt9nsyaqo8e)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:50:27.448Z,1.68E+14
+-- ending hand #86 --,2023-02-17T18:50:21.409Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a Q‚ô£, 9‚ô£.",2023-02-17T18:50:21.409Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 12.60 from pot with Pair, 2's (combination: 2‚ô•, 2‚ô¶, A‚ô•, K‚ô†, 6‚ô£)",2023-02-17T18:50:21.409Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a K‚ô†, 2‚ô•.",2023-02-17T18:50:21.409Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:50:20.522Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:50:19.577Z,1.68E+14
+"River: 2‚ô¶, 3‚ô¶, 6‚ô£, 5‚ô¶ [A‚ô•]",2023-02-17T18:50:18.035Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 4.20",2023-02-17T18:50:17.223Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 4.20",2023-02-17T18:50:13.539Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:50:10.575Z,1.68E+14
+"Turn: 2‚ô¶, 3‚ô¶, 6‚ô£ [5‚ô¶]",2023-02-17T18:50:09.102Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 1.68",2023-02-17T18:50:08.234Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:50:07.377Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 1.68",2023-02-17T18:50:05.293Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.84",2023-02-17T18:50:02.553Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:50:00.286Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:49:59.168Z,1.68E+14
+"Flop:  [2‚ô¶, 3‚ô¶, 6‚ô£]",2023-02-17T18:49:56.297Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:49:55.463Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:49:53.827Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:49:52.923Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:49:51.094Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:49:51.094Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (69.06) | #2 ""teddy @ kOMtSCwNxC"" (28.82) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (6.12)",2023-02-17T18:49:51.094Z,1.68E+14
+"-- starting hand #86 (id: 70y2vn8j4yuc)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:49:51.094Z,1.68E+14
+-- ending hand #85 --,2023-02-17T18:49:45.090Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 6.12 from pot with Two Pair, 8's & 7's (combination: 8‚ô¶, 8‚ô•, 7‚ô£, 7‚ô•, K‚ô¶)",2023-02-17T18:49:45.090Z,1.68E+14
+"River: 3‚ô•, K‚ô¶, J‚ô•, 8‚ô¶ [8‚ô•]",2023-02-17T18:49:41.087Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 7‚ô£, 7‚ô•.",2023-02-17T18:49:37.012Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a Q‚ô¶, 6‚ô£.",2023-02-17T18:49:37.012Z,1.68E+14
+"Uncalled bet of 6.12 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:49:37.012Z,1.68E+14
+Some players choose to not run it twice.,2023-02-17T18:49:36.160Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" chooses to not run it twice.",2023-02-17T18:49:36.160Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:49:33.087Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:49:31.642Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:49:31.642Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 6.12",2023-02-17T18:49:30.276Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:49:27.941Z,1.68E+14
+"Turn: 3‚ô•, K‚ô¶, J‚ô• [8‚ô¶]",2023-02-17T18:49:27.668Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:49:26.842Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:49:25.978Z,1.68E+14
+"Flop:  [3‚ô•, K‚ô¶, J‚ô•]",2023-02-17T18:49:23.998Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 2.04",2023-02-17T18:49:23.174Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 2.04",2023-02-17T18:49:22.173Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" raises to 2.04 and go all in",2023-02-17T18:49:20.483Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:49:17.663Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:49:17.663Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (71.10) | #2 ""teddy @ kOMtSCwNxC"" (30.86) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (2.04)",2023-02-17T18:49:17.663Z,1.68E+14
+"-- starting hand #85 (id: b4gp3mwelno9)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:49:17.663Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a Q‚ô•, 2‚ô¶.",2023-02-17T18:49:15.115Z,1.68E+14
+-- ending hand #84 --,2023-02-17T18:49:11.113Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 11.52 from pot with Straight, J High (combination: J‚ô£, 10‚ô•, 9‚ô£, 8‚ô•, 7‚ô£)",2023-02-17T18:49:11.113Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 5‚ô•, 9‚ô£.",2023-02-17T18:49:11.113Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 3.84",2023-02-17T18:49:10.273Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:49:09.374Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 3.84",2023-02-17T18:49:02.136Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:48:59.213Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:48:58.295Z,1.68E+14
+"River: J‚ô£, 8‚ô•, 10‚ô•, 2‚ô• [7‚ô£]",2023-02-17T18:48:55.381Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.96",2023-02-17T18:48:54.575Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.96",2023-02-17T18:48:52.814Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.96",2023-02-17T18:48:50.216Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:48:47.868Z,1.68E+14
+"Turn: J‚ô£, 8‚ô•, 10‚ô• [2‚ô•]",2023-02-17T18:48:44.815Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.24",2023-02-17T18:48:43.978Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.24",2023-02-17T18:48:42.383Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.24",2023-02-17T18:48:40.992Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:48:37.996Z,1.68E+14
+"Flop:  [J‚ô£, 8‚ô•, 10‚ô•]",2023-02-17T18:48:35.661Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:48:34.857Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:48:33.457Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:48:32.360Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:48:30.164Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:48:30.164Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (76.22) | #2 ""teddy @ kOMtSCwNxC"" (24.46) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (3.32)",2023-02-17T18:48:30.164Z,1.68E+14
+"-- starting hand #84 (id: k4hdmexmvxc6)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:48:30.164Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 2‚ô£, 7‚ô†.",2023-02-17T18:48:28.343Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 6‚ô†, 7‚ô£.",2023-02-17T18:48:25.976Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 7‚ô¶, 5‚ô†.",2023-02-17T18:48:25.842Z,1.68E+14
+-- ending hand #83 --,2023-02-17T18:48:25.045Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 7.56 from pot",2023-02-17T18:48:25.045Z,1.68E+14
+"Uncalled bet of 7.56 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:48:25.045Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:48:24.228Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 7.56",2023-02-17T18:48:23.321Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:48:19.201Z,1.68E+14
+"River: 4‚ô£, 9‚ô¶, 3‚ô•, 2‚ô¶ [10‚ô†]",2023-02-17T18:48:17.790Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 2.52",2023-02-17T18:48:16.983Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 2.52",2023-02-17T18:48:15.255Z,1.68E+14
+"Turn: 4‚ô£, 9‚ô¶, 3‚ô• [2‚ô¶]",2023-02-17T18:48:11.946Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:48:11.060Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.84",2023-02-17T18:48:08.882Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.84",2023-02-17T18:48:07.530Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:48:05.158Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:47:58.985Z,1.68E+14
+"Flop:  [4‚ô£, 9‚ô¶, 3‚ô•]",2023-02-17T18:47:55.828Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:47:55.021Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:47:53.007Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:47:50.970Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:47:48.773Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:47:48.773Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (72.30) | #2 ""teddy @ kOMtSCwNxC"" (28.10) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (3.60)",2023-02-17T18:47:48.773Z,1.68E+14
+"-- starting hand #83 (id: 1gnyosteduza)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:47:48.773Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 9‚ô†, 7‚ô¶.",2023-02-17T18:47:43.048Z,1.68E+14
+-- ending hand #82 --,2023-02-17T18:47:42.229Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 3.60 from pot with Pair, K's (combination: K‚ô•, K‚ô£, A‚ô¶, J‚ô•, 10‚ô•)",2023-02-17T18:47:42.229Z,1.68E+14
+"River: A‚ô¶, 9‚ô•, 10‚ô•, J‚ô• [5‚ô£]",2023-02-17T18:47:38.202Z,1.68E+14
+"Turn: A‚ô¶, 9‚ô•, 10‚ô• [J‚ô•]",2023-02-17T18:47:34.144Z,1.68E+14
+"Flop:  [A‚ô¶, 9‚ô•, 10‚ô•]",2023-02-17T18:47:30.093Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a K‚ô•, K‚ô£.",2023-02-17T18:47:26.087Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a J‚ô£, 4‚ô†.",2023-02-17T18:47:26.087Z,1.68E+14
+"Uncalled bet of 28.10 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:47:26.087Z,1.68E+14
+Some players choose to not run it twice.,2023-02-17T18:47:25.253Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" chooses to not run it twice.",2023-02-17T18:47:25.253Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:47:24.309Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:47:22.832Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:47:22.832Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 29.30 and go all in",2023-02-17T18:47:21.943Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 1.20",2023-02-17T18:47:18.481Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" raises to 1.20 and go all in",2023-02-17T18:47:17.449Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:47:13.719Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:47:13.719Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (73.50) | #2 ""teddy @ kOMtSCwNxC"" (29.30) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (1.20)",2023-02-17T18:47:13.719Z,1.68E+14
+"-- starting hand #82 (id: yfmehckqaswm)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:47:13.719Z,1.68E+14
+-- ending hand #81 --,2023-02-17T18:47:07.716Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 2.40 from pot with Pair, 7's (combination: 7‚ô•, 7‚ô†, Q‚ô£, J‚ô•, 9‚ô£)",2023-02-17T18:47:07.716Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 9‚ô£, 7‚ô•.",2023-02-17T18:47:07.716Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 1.20 from pot with Pair, Q's (combination: Q‚ô•, Q‚ô£, J‚ô•, 8‚ô£, 7‚ô†)",2023-02-17T18:47:07.716Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a Q‚ô•, 6‚ô¶.",2023-02-17T18:47:07.716Z,1.68E+14
+"Uncalled bet of 3.60 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:47:07.716Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:47:06.872Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 3.60",2023-02-17T18:47:04.770Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:47:01.869Z,1.68E+14
+"River: J‚ô•, 7‚ô†, 4‚ô£, Q‚ô£ [8‚ô£]",2023-02-17T18:47:00.157Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 1.20",2023-02-17T18:46:59.335Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 1.20",2023-02-17T18:46:58.190Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:46:55.057Z,1.68E+14
+"Turn: J‚ô•, 7‚ô†, 4‚ô£ [Q‚ô£]",2023-02-17T18:46:53.710Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:46:52.896Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:46:51.533Z,1.68E+14
+"Flop:  [J‚ô•, 7‚ô†, 4‚ô£]",2023-02-17T18:46:50.508Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.40",2023-02-17T18:46:49.698Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.40",2023-02-17T18:46:48.739Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" raises to 0.40 and go all in",2023-02-17T18:46:46.821Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:46:42.118Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:46:40.851Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:46:40.851Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (75.10) | #2 ""teddy @ kOMtSCwNxC"" (28.50) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (0.40)",2023-02-17T18:46:40.851Z,1.68E+14
+"-- starting hand #81 (id: p77hu8qeduay)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:46:40.851Z,1.68E+14
+-- ending hand #80 --,2023-02-17T18:46:34.845Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 2‚ô£, 4‚ô£.",2023-02-17T18:46:34.845Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 7.56 from pot with Pair, 3's (combination: 3‚ô¶, 3‚ô•, A‚ô†, K‚ô•, 6‚ô£)",2023-02-17T18:46:34.845Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 3‚ô¶, 3‚ô•.",2023-02-17T18:46:34.845Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:46:33.940Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:46:31.212Z,1.68E+14
+"River: 5‚ô£, 2‚ô•, 6‚ô£, K‚ô• [A‚ô†]",2023-02-17T18:46:28.439Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 2.52",2023-02-17T18:46:27.558Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 2.52",2023-02-17T18:46:26.511Z,1.68E+14
+"Turn: 5‚ô£, 2‚ô•, 6‚ô£ [K‚ô•]",2023-02-17T18:46:22.828Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.84",2023-02-17T18:46:21.926Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:46:21.042Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.84",2023-02-17T18:46:18.748Z,1.68E+14
+"Flop:  [5‚ô£, 2‚ô•, 6‚ô£]",2023-02-17T18:46:14.300Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:46:13.465Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:46:12.273Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:46:05.376Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:46:02.606Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:46:02.606Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (71.18) | #2 ""teddy @ kOMtSCwNxC"" (32.14) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (0.68)",2023-02-17T18:46:02.606Z,1.68E+14
+"-- starting hand #80 (id: mkl162omgbhi)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:46:02.606Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 6‚ô£, 8‚ô•.",2023-02-17T18:45:59.897Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 3‚ô•, J‚ô¶.",2023-02-17T18:45:57.139Z,1.68E+14
+-- ending hand #79 --,2023-02-17T18:45:55.201Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 0.72 from pot",2023-02-17T18:45:55.201Z,1.68E+14
+"Uncalled bet of 0.72 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:45:55.201Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:45:54.360Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:45:52.676Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 0.96",2023-02-17T18:45:51.523Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.24",2023-02-17T18:45:48.551Z,1.68E+14
+"Turn: A‚ô†, 2‚ô•, 5‚ô• [3‚ô¶]",2023-02-17T18:45:45.390Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:45:44.587Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:45:43.433Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:45:42.464Z,1.68E+14
+"Flop:  [A‚ô†, 2‚ô•, 5‚ô•]",2023-02-17T18:45:40.640Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:45:39.811Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.08",2023-02-17T18:45:37.899Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:45:36.094Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:45:33.180Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:45:33.180Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (71.50) | #2 ""teddy @ kOMtSCwNxC"" (31.74) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (0.76)",2023-02-17T18:45:33.180Z,1.68E+14
+"-- starting hand #79 (id: lcmqqyqwe8mu)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:45:33.180Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 6‚ô£, 5‚ô•.",2023-02-17T18:45:30.514Z,1.68E+14
+-- ending hand #78 --,2023-02-17T18:45:26.576Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 7‚ô£, Q‚ô£.",2023-02-17T18:45:26.576Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 10.72 from pot with Pair, 2's (combination: 2‚ô¶, 2‚ô•, A‚ô¶, K‚ô†, Q‚ô•)",2023-02-17T18:45:26.576Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a K‚ô†, Q‚ô•.",2023-02-17T18:45:26.576Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 3.68",2023-02-17T18:45:25.770Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:45:24.074Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 3.68",2023-02-17T18:45:22.642Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:45:17.979Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:45:16.859Z,1.68E+14
+"River: A‚ô¶, 8‚ô£, 9‚ô£, 2‚ô¶ [2‚ô•]",2023-02-17T18:45:13.575Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:45:12.760Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:45:11.680Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:45:10.791Z,1.68E+14
+"Turn: A‚ô¶, 8‚ô£, 9‚ô£ [2‚ô¶]",2023-02-17T18:45:07.973Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.84",2023-02-17T18:45:07.069Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.84",2023-02-17T18:45:06.181Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.84",2023-02-17T18:45:03.790Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:45:01.276Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:45:00.417Z,1.68E+14
+"Flop:  [A‚ô¶, 8‚ô£, 9‚ô£]",2023-02-17T18:44:58.173Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:44:57.274Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:44:55.332Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 0.28",2023-02-17T18:44:54.127Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:44:51.049Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:44:51.049Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (65.58) | #2 ""teddy @ kOMtSCwNxC"" (36.54) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (1.88)",2023-02-17T18:44:51.049Z,1.68E+14
+"-- starting hand #78 (id: o9i9fx5aesfv)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:44:51.049Z,1.68E+14
+-- ending hand #77 --,2023-02-17T18:44:45.042Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 1.88 from pot with Two Pair, 7's & 5's (combination: 7‚ô¶, 7‚ô†, 5‚ô•, 5‚ô£, Q‚ô†)",2023-02-17T18:44:45.042Z,1.68E+14
+"River: 7‚ô†, Q‚ô†, 4‚ô†, 5‚ô• [5‚ô£]",2023-02-17T18:44:41.011Z,1.68E+14
+"Turn: 7‚ô†, Q‚ô†, 4‚ô† [5‚ô•]",2023-02-17T18:44:37.000Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 7‚ô¶, 8‚ô£.",2023-02-17T18:44:32.953Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a J‚ô¶, K‚ô•.",2023-02-17T18:44:32.953Z,1.68E+14
+"Uncalled bet of 0.32 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:44:32.953Z,1.68E+14
+Some players choose to not run it twice.,2023-02-17T18:44:32.082Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" chooses to not run it twice.",2023-02-17T18:44:32.082Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:44:29.079Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:44:29.079Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.52 and go all in",2023-02-17T18:44:28.142Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.84",2023-02-17T18:44:25.132Z,1.68E+14
+"Flop:  [7‚ô†, Q‚ô†, 4‚ô†]",2023-02-17T18:44:20.342Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:44:19.490Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:44:18.352Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:44:17.291Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:44:15.025Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:44:15.025Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (65.86) | #2 ""teddy @ kOMtSCwNxC"" (37.34) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (0.80)",2023-02-17T18:44:15.025Z,1.68E+14
+"-- starting hand #77 (id: pdj0lknrpcsy)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:44:15.025Z,1.68E+14
+-- ending hand #76 --,2023-02-17T18:44:07.015Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 0.80 from pot with Two Pair, 10's & 7's on the second run  (combination: 10‚ô£, 10‚ô¶, 7‚ô¶, 7‚ô†, 6‚ô¶)",2023-02-17T18:44:07.015Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 0.80 from pot with K High (combination: K‚ô•, Q‚ô¶, 9‚ô£, 8‚ô†, 7‚ô•)",2023-02-17T18:44:07.015Z,1.68E+14
+"River (second run): 7‚ô¶, 7‚ô†, 4‚ô†, 6‚ô¶ [10‚ô¶]",2023-02-17T18:44:02.981Z,1.68E+14
+"Turn (second run): 7‚ô¶, 7‚ô†, 4‚ô† [6‚ô¶]",2023-02-17T18:43:58.928Z,1.68E+14
+"Flop (second run):  [7‚ô¶, 7‚ô†, 4‚ô†]",2023-02-17T18:43:54.922Z,1.68E+14
+"River: 4‚ô¶, Q‚ô¶, 3‚ô†, 7‚ô• [9‚ô£]",2023-02-17T18:43:50.801Z,1.68E+14
+"Turn: 4‚ô¶, Q‚ô¶, 3‚ô† [7‚ô•]",2023-02-17T18:43:46.771Z,1.68E+14
+"Flop:  [4‚ô¶, Q‚ô¶, 3‚ô†]",2023-02-17T18:43:42.716Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a K‚ô•, 8‚ô†.",2023-02-17T18:43:38.591Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 10‚ô£, 5‚ô£.",2023-02-17T18:43:38.591Z,1.68E+14
+"Uncalled bet of 36.54 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:43:38.591Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:43:37.777Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" chooses to  run it twice.",2023-02-17T18:43:37.777Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:43:37.324Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:43:34.839Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:43:34.839Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.64 and go all in",2023-02-17T18:43:31.438Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 37.18 and go all in",2023-02-17T18:43:28.972Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.32",2023-02-17T18:43:26.766Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:43:24.510Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:43:22.106Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:43:22.106Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (66.18) | #2 ""teddy @ kOMtSCwNxC"" (37.18) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (0.64)",2023-02-17T18:43:22.106Z,1.68E+14
+"-- starting hand #76 (id: xbubdoxe2aoe)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:43:22.106Z,1.68E+14
+-- ending hand #75 --,2023-02-17T18:43:16.095Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 2‚ô†, 4‚ô£.",2023-02-17T18:43:16.095Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 8.64 from pot with Pair, 9's (combination: 9‚ô•, 9‚ô¶, A‚ô¶, K‚ô•, 6‚ô£)",2023-02-17T18:43:16.095Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a K‚ô•, 9‚ô•.",2023-02-17T18:43:16.095Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 2.88",2023-02-17T18:43:15.192Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 2.88",2023-02-17T18:43:12.954Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:43:10.154Z,1.68E+14
+"River: A‚ô¶, 6‚ô£, 2‚ô•, 5‚ô£ [9‚ô¶]",2023-02-17T18:43:08.325Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:43:07.495Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:43:05.922Z,1.68E+14
+"Turn: A‚ô¶, 6‚ô£, 2‚ô• [5‚ô£]",2023-02-17T18:43:03.866Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:43:03.057Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.96",2023-02-17T18:43:01.655Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.96",2023-02-17T18:43:00.101Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:42:55.759Z,1.68E+14
+"Flop:  [A‚ô¶, 6‚ô£, 2‚ô•]",2023-02-17T18:42:53.522Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.32",2023-02-17T18:42:52.720Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.32",2023-02-17T18:42:50.525Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.32",2023-02-17T18:42:49.547Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:42:46.626Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:42:45.284Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:42:43.252Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:42:43.252Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (61.70) | #2 ""teddy @ kOMtSCwNxC"" (41.34) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (0.96)",2023-02-17T18:42:43.252Z,1.68E+14
+"-- starting hand #75 (id: a9xcmladvixg)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:42:43.252Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a J‚ô£, Q‚ô£.",2023-02-17T18:42:41.331Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a K‚ô£, 4‚ô£.",2023-02-17T18:42:39.317Z,1.68E+14
+-- ending hand #74 --,2023-02-17T18:42:38.849Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 7.56 from pot",2023-02-17T18:42:38.849Z,1.68E+14
+"Uncalled bet of 7.56 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:42:38.849Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:42:37.998Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 7.56",2023-02-17T18:42:37.052Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:42:34.579Z,1.68E+14
+"River: 5‚ô†, 9‚ô•, 7‚ô•, 10‚ô¶ [3‚ô¶]",2023-02-17T18:42:29.445Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 2.52",2023-02-17T18:42:28.534Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 2.52",2023-02-17T18:42:26.998Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:42:24.495Z,1.68E+14
+"Turn: 5‚ô†, 9‚ô•, 7‚ô• [10‚ô¶]",2023-02-17T18:42:21.638Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:42:20.810Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.84",2023-02-17T18:42:19.660Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.84",2023-02-17T18:42:18.348Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:42:14.564Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:42:13.359Z,1.68E+14
+"Flop:  [5‚ô†, 9‚ô•, 7‚ô•]",2023-02-17T18:42:11.227Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:42:10.348Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:42:08.695Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:42:07.789Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:42:05.824Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:42:05.824Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (57.78) | #2 ""teddy @ kOMtSCwNxC"" (44.98) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (1.24)",2023-02-17T18:42:05.824Z,1.68E+14
+"-- starting hand #74 (id: wdxxgp7nrvxg)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:42:05.824Z,1.68E+14
+-- ending hand #73 --,2023-02-17T18:41:59.819Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 0.96 from pot",2023-02-17T18:41:59.819Z,1.68E+14
+"Uncalled bet of 0.96 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:41:59.819Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:41:58.999Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:41:57.746Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.96",2023-02-17T18:41:56.031Z,1.68E+14
+"Flop:  [7‚ô†, A‚ô£, 10‚ô£]",2023-02-17T18:41:53.219Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.32",2023-02-17T18:41:52.336Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.32",2023-02-17T18:41:50.225Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.32",2023-02-17T18:41:48.972Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:41:46.669Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:41:44.866Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:41:44.866Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (57.14) | #2 ""teddy @ kOMtSCwNxC"" (45.30) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (1.56)",2023-02-17T18:41:44.866Z,1.68E+14
+"-- starting hand #73 (id: njj5yzhs0dly)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:41:44.866Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 10‚ô•, 3‚ô¶.",2023-02-17T18:41:41.516Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 10‚ô£, 7‚ô£.",2023-02-17T18:41:40.597Z,1.68E+14
+-- ending hand #72 --,2023-02-17T18:41:37.858Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 24.00 from pot with Three of a Kind, J's (combination: J‚ô¶, J‚ô†, J‚ô£, 10‚ô¶, 8‚ô¶)",2023-02-17T18:41:37.858Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 2‚ô†, J‚ô¶.",2023-02-17T18:41:37.858Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:41:37.056Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 9.60",2023-02-17T18:41:34.575Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 9.60",2023-02-17T18:41:32.842Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 2.40",2023-02-17T18:41:29.804Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:41:27.671Z,1.68E+14
+"River: 10‚ô¶, 4‚ô†, J‚ô†, 8‚ô¶ [J‚ô£]",2023-02-17T18:41:24.990Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.60",2023-02-17T18:41:24.177Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.60",2023-02-17T18:41:22.481Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.60",2023-02-17T18:41:19.090Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:41:16.660Z,1.68E+14
+"Turn: 10‚ô¶, 4‚ô†, J‚ô† [8‚ô¶]",2023-02-17T18:41:14.575Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.12",2023-02-17T18:41:13.682Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.12",2023-02-17T18:41:12.707Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" bets 0.12",2023-02-17T18:41:11.814Z,1.68E+14
+"Flop:  [10‚ô¶, 4‚ô†, J‚ô†]",2023-02-17T18:41:06.369Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:41:05.446Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:41:03.218Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:41:01.551Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:41:00.569Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:41:00.569Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (60.34) | #2 ""teddy @ kOMtSCwNxC"" (31.70) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (11.96)",2023-02-17T18:41:00.569Z,1.68E+14
+"-- starting hand #72 (id: fzbmmfhdvl3h)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:41:00.569Z,1.68E+14
+-- ending hand #71 --,2023-02-17T18:40:54.555Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 9‚ô¶, 5‚ô†.",2023-02-17T18:40:54.555Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 11.96 from pot with Straight, Q High (combination: Q‚ô•, J‚ô•, 10‚ô†, 9‚ô•, 8‚ô†)",2023-02-17T18:40:54.555Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 10‚ô†, Q‚ô•.",2023-02-17T18:40:54.555Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 4.78",2023-02-17T18:40:53.742Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" raises to 4.78 and go all in",2023-02-17T18:40:47.119Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 2.40",2023-02-17T18:40:44.288Z,1.68E+14
+"River: 8‚ô†, 10‚ô¶, 9‚ô•, 2‚ô• [J‚ô•]",2023-02-17T18:40:40.342Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:40:39.509Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.72",2023-02-17T18:40:37.277Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.72",2023-02-17T18:40:35.427Z,1.68E+14
+"Turn: 8‚ô†, 10‚ô¶, 9‚ô• [2‚ô•]",2023-02-17T18:40:29.974Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.24",2023-02-17T18:40:29.138Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.24",2023-02-17T18:40:27.452Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.24",2023-02-17T18:40:25.219Z,1.68E+14
+"Flop:  [8‚ô†, 10‚ô¶, 9‚ô•]",2023-02-17T18:40:20.730Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:40:19.875Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:40:18.590Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.08",2023-02-17T18:40:17.692Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:40:15.716Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:40:15.716Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (60.66) | #2 ""teddy @ kOMtSCwNxC"" (37.52) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (5.82)",2023-02-17T18:40:15.716Z,1.68E+14
+"-- starting hand #71 (id: eftixwrshz7p)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:40:15.716Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 8‚ô¶, K‚ô•.",2023-02-17T18:40:11.108Z,1.68E+14
+-- ending hand #70 --,2023-02-17T18:40:09.109Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 5.82 from pot with Pair, K's (combination: K‚ô†, K‚ô£, A‚ô£, J‚ô¶, 6‚ô•)",2023-02-17T18:40:09.109Z,1.68E+14
+"River: A‚ô£, K‚ô£, 6‚ô•, J‚ô¶ [4‚ô†]",2023-02-17T18:40:04.984Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 8‚ô£, Q‚ô£.",2023-02-17T18:40:00.950Z,1.68E+14
+"Uncalled bet of 2.85 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:40:00.950Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 3‚ô¶, K‚ô†.",2023-02-17T18:40:00.536Z,1.68E+14
+Some players choose to not run it twice.,2023-02-17T18:40:00.121Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to not run it twice.",2023-02-17T18:40:00.121Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:39:58.037Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.99 and go all in",2023-02-17T18:39:58.037Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:39:56.850Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 3.84",2023-02-17T18:39:54.347Z,1.68E+14
+"Turn: A‚ô£, K‚ô£, 6‚ô• [J‚ô¶]",2023-02-17T18:39:51.744Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.96",2023-02-17T18:39:50.896Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.96",2023-02-17T18:39:49.749Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.96",2023-02-17T18:39:44.403Z,1.68E+14
+"Flop:  [A‚ô£, K‚ô£, 6‚ô•]",2023-02-17T18:39:41.881Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.32",2023-02-17T18:39:41.063Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.32",2023-02-17T18:39:39.837Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.32",2023-02-17T18:39:37.241Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:39:33.080Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:39:31.274Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:39:31.274Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (62.93) | #2 ""teddy @ kOMtSCwNxC"" (38.80) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (2.27)",2023-02-17T18:39:31.274Z,1.68E+14
+"-- starting hand #70 (id: ogj7upj2h8dl)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:39:31.274Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a K‚ô•, 5‚ô£.",2023-02-17T18:39:28.711Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 2‚ô†, 7‚ô†.",2023-02-17T18:39:26.996Z,1.68E+14
+-- ending hand #69 --,2023-02-17T18:39:23.872Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 6.21 from pot",2023-02-17T18:39:23.872Z,1.68E+14
+"Uncalled bet of 6.21 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:39:23.872Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:39:23.054Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 8.28",2023-02-17T18:39:21.246Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 2.07",2023-02-17T18:39:18.255Z,1.68E+14
+"Turn: 3‚ô†, A‚ô†, 9‚ô£ [9‚ô†]",2023-02-17T18:39:15.707Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.69",2023-02-17T18:39:14.877Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:39:12.734Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.69",2023-02-17T18:39:07.589Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:39:03.595Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:39:02.236Z,1.68E+14
+"Flop:  [3‚ô†, A‚ô†, 9‚ô£]",2023-02-17T18:39:00.108Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.23",2023-02-17T18:38:59.242Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.23",2023-02-17T18:38:57.853Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 0.23",2023-02-17T18:38:55.495Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:38:49.854Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:38:49.854Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (65.92) | #2 ""teddy @ kOMtSCwNxC"" (35.58) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (2.50)",2023-02-17T18:38:49.854Z,1.68E+14
+"-- starting hand #69 (id: ulx0c9bdndrr)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:38:49.854Z,1.68E+14
+-- ending hand #68 --,2023-02-17T18:38:43.934Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 2.52 from pot",2023-02-17T18:38:43.934Z,1.68E+14
+"Uncalled bet of 2.52 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:38:43.934Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:38:43.107Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 2.52",2023-02-17T18:38:41.898Z,1.68E+14
+"Turn: 5‚ô¶, Q‚ô¶, 3‚ô£ [7‚ô†]",2023-02-17T18:38:38.834Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.84",2023-02-17T18:38:37.987Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:38:36.784Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.84",2023-02-17T18:38:31.335Z,1.68E+14
+"Flop:  [5‚ô¶, Q‚ô¶, 3‚ô£]",2023-02-17T18:38:28.525Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:38:27.701Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:38:26.565Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:38:25.707Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:38:23.723Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:38:23.723Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (67.04) | #2 ""teddy @ kOMtSCwNxC"" (34.18) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (2.78)",2023-02-17T18:38:23.723Z,1.68E+14
+"-- starting hand #68 (id: 6jvnfb0molv8)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:38:23.723Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a J‚ô£, J‚ô¶.",2023-02-17T18:38:20.499Z,1.68E+14
+-- ending hand #67 --,2023-02-17T18:38:17.214Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 25.20 from pot with Three of a Kind, 3's (combination: 3‚ô¶, 3‚ô†, 3‚ô•, K‚ô£, 10‚ô¶)",2023-02-17T18:38:17.214Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 3‚ô¶, 10‚ô¶.",2023-02-17T18:38:17.214Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 8.40",2023-02-17T18:38:16.395Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 8.40",2023-02-17T18:38:14.883Z,1.68E+14
+"River: 3‚ô†, 3‚ô•, K‚ô£, 9‚ô• [2‚ô¶]",2023-02-17T18:38:13.013Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:38:12.161Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 2.52",2023-02-17T18:38:11.258Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" bets 2.52",2023-02-17T18:38:08.350Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:38:05.406Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:38:04.085Z,1.68E+14
+"Turn: 3‚ô†, 3‚ô•, K‚ô£ [9‚ô•]",2023-02-17T18:38:02.049Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.84",2023-02-17T18:38:01.222Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.84",2023-02-17T18:38:00.074Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.84",2023-02-17T18:37:59.058Z,1.68E+14
+"Flop:  [3‚ô†, 3‚ô•, K‚ô£]",2023-02-17T18:37:55.914Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:37:55.049Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:37:54.197Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" raises to 0.28",2023-02-17T18:37:52.337Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:37:49.113Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:37:49.113Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (53.88) | #2 ""teddy @ kOMtSCwNxC"" (35.30) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (14.82)",2023-02-17T18:37:49.113Z,1.68E+14
+"-- starting hand #67 (id: xbs5tingsruw)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:37:49.113Z,1.68E+14
+-- ending hand #66 --,2023-02-17T18:37:46.193Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 0.96 from pot",2023-02-17T18:37:46.193Z,1.68E+14
+"Uncalled bet of 1.36 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:37:46.193Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:37:45.314Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:37:43.156Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 1.36",2023-02-17T18:37:39.729Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:37:33.752Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:37:32.045Z,1.68E+14
+"River: 7‚ô£, 5‚ô£, 7‚ô¶, A‚ô£ [J‚ô¶]",2023-02-17T18:37:29.625Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:37:28.802Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:37:27.001Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:37:22.322Z,1.68E+14
+"Turn: 7‚ô£, 5‚ô£, 7‚ô¶ [A‚ô£]",2023-02-17T18:37:10.377Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:37:09.543Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:37:05.115Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:37:03.927Z,1.68E+14
+"Flop:  [7‚ô£, 5‚ô£, 7‚ô¶]",2023-02-17T18:37:01.662Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.32",2023-02-17T18:37:00.839Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.32",2023-02-17T18:36:58.992Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.32",2023-02-17T18:36:54.759Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:36:49.779Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:36:40.557Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:36:37.944Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:36:37.944Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (54.20) | #2 ""teddy @ kOMtSCwNxC"" (34.66) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (15.14)",2023-02-17T18:36:37.944Z,1.68E+14
+"-- starting hand #66 (id: emeofy60mymb)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:36:37.944Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 3‚ô†, 3‚ô¶.",2023-02-17T18:36:32.923Z,1.68E+14
+-- ending hand #65 --,2023-02-17T18:36:31.337Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 1.08 from pot",2023-02-17T18:36:31.337Z,1.68E+14
+"Uncalled bet of 1.08 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:36:31.337Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:36:30.493Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:36:29.336Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 1.08",2023-02-17T18:36:27.044Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:36:25.169Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:36:23.789Z,1.68E+14
+"Turn: Q‚ô¶, 9‚ô£, 9‚ô† [9‚ô•]",2023-02-17T18:36:20.327Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.08",2023-02-17T18:36:19.515Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:36:08.481Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.08",2023-02-17T18:36:00.724Z,1.68E+14
+"Flop:  [Q‚ô¶, 9‚ô£, 9‚ô†]",2023-02-17T18:35:54.359Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:35:53.492Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:35:51.581Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:35:49.403Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:35:47.017Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:35:47.017Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (53.48) | #2 ""teddy @ kOMtSCwNxC"" (35.02) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (15.50)",2023-02-17T18:35:47.017Z,1.68E+14
+"-- starting hand #65 (id: ygon7mzkmawm)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:35:47.017Z,1.68E+14
+"The player ""Thler @ p2tt-yMqE3"" quits the game with a stack of 0.00.",2023-02-17T18:35:47.017Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 4‚ô¶, 7‚ô£.",2023-02-17T18:35:42.939Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 6‚ô†, 10‚ô¶.",2023-02-17T18:35:39.751Z,1.68E+14
+-- ending hand #64 --,2023-02-17T18:35:38.011Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 20.80 from pot with Pair, 8's on the second run  (combination: 8‚ô£, 8‚ô†, 10‚ô•, 7‚ô†, 6‚ô£)",2023-02-17T18:35:38.011Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 20.80 from pot with Two Pair, 9's & 8's (combination: 9‚ô•, 9‚ô£, 8‚ô£, 8‚ô†, J‚ô£)",2023-02-17T18:35:38.011Z,1.68E+14
+"River (second run): 10‚ô•, 6‚ô£, 4‚ô•, 2‚ô£ [7‚ô†]",2023-02-17T18:35:34.008Z,1.68E+14
+"Turn (second run): 10‚ô•, 6‚ô£, 4‚ô• [2‚ô£]",2023-02-17T18:35:30.000Z,1.68E+14
+"Flop (second run):  [10‚ô•, 6‚ô£, 4‚ô•]",2023-02-17T18:35:25.983Z,1.68E+14
+"River: 9‚ô•, 6‚ô¶, J‚ô£, 2‚ô† [9‚ô£]",2023-02-17T18:35:21.927Z,1.68E+14
+"Turn: 9‚ô•, 6‚ô¶, J‚ô£ [2‚ô†]",2023-02-17T18:35:17.924Z,1.68E+14
+"Flop:  [9‚ô•, 6‚ô¶, J‚ô£]",2023-02-17T18:35:13.922Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" shows a Q‚ô£, K‚ô£.",2023-02-17T18:35:09.864Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 8‚ô£, 8‚ô†.",2023-02-17T18:35:09.864Z,1.68E+14
+"Uncalled bet of 11.88 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:35:09.864Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:35:08.985Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" chooses to  run it twice.",2023-02-17T18:35:08.985Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:35:07.171Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:35:06.164Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:35:06.164Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 32.02 and go all in",2023-02-17T18:35:04.488Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 20.14 and go all in",2023-02-17T18:34:55.517Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:34:47.274Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 1.24",2023-02-17T18:34:46.078Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 1.24",2023-02-17T18:34:45.133Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.36",2023-02-17T18:34:42.803Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:34:40.317Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:34:38.642Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:34:38.642Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (32.02) | #2 ""teddy @ kOMtSCwNxC"" (36.26) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (15.58) | #10 ""Thler @ p2tt-yMqE3"" (20.14)",2023-02-17T18:34:38.642Z,1.68E+14
+"-- starting hand #64 (id: cmiwl6aobbc0)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:34:38.642Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 9‚ô¶, 10‚ô¶.",2023-02-17T18:34:34.834Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 9‚ô£, A‚ô£.",2023-02-17T18:34:32.835Z,1.68E+14
+-- ending hand #63 --,2023-02-17T18:34:31.325Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 4.80 from pot",2023-02-17T18:34:31.325Z,1.68E+14
+"Uncalled bet of 4.80 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:34:31.325Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:34:30.517Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 4.80",2023-02-17T18:34:21.885Z,1.68E+14
+"Turn: 7‚ô•, 4‚ô¶, 8‚ô¶ [7‚ô£]",2023-02-17T18:34:19.324Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:34:18.517Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 1.60",2023-02-17T18:34:16.948Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:34:15.513Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 1.60",2023-02-17T18:34:13.083Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:34:10.481Z,1.68E+14
+"Flop:  [7‚ô•, 4‚ô¶, 8‚ô¶]",2023-02-17T18:34:05.884Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.40",2023-02-17T18:34:05.064Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.40",2023-02-17T18:34:03.560Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.40",2023-02-17T18:34:01.499Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.40",2023-02-17T18:33:59.870Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.08",2023-02-17T18:33:55.302Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:33:53.919Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:33:52.801Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:33:51.203Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:33:51.203Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (29.22) | #2 ""teddy @ kOMtSCwNxC"" (36.66) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (17.58) | #10 ""Thler @ p2tt-yMqE3"" (20.54)",2023-02-17T18:33:51.203Z,1.68E+14
+"-- starting hand #63 (id: zsks7gxdpzja)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:33:51.203Z,1.68E+14
+-- ending hand #62 --,2023-02-17T18:33:45.199Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 3.36 from pot",2023-02-17T18:33:45.199Z,1.68E+14
+"Uncalled bet of 3.36 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:33:45.199Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:33:44.366Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:33:41.962Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:33:40.871Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 4.48",2023-02-17T18:33:39.762Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 1.12",2023-02-17T18:33:37.047Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:33:34.056Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:33:32.501Z,1.68E+14
+"Flop:  [7‚ô†, 4‚ô†, 3‚ô¶]",2023-02-17T18:33:28.587Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.28",2023-02-17T18:33:27.723Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:33:26.658Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:33:25.442Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:33:22.631Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:33:18.378Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:33:18.378Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (30.62) | #2 ""teddy @ kOMtSCwNxC"" (34.70) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (17.86) | #10 ""Thler @ p2tt-yMqE3"" (20.82)",2023-02-17T18:33:18.378Z,1.68E+14
+"-- starting hand #62 (id: gnvjlolyyhrn)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:33:18.378Z,1.68E+14
+-- ending hand #61 --,2023-02-17T18:33:15.376Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 5.40 from pot",2023-02-17T18:33:15.376Z,1.68E+14
+"Uncalled bet of 4.05 returned to ""Haoyang Zhang @ QntlFAl8Rf""",2023-02-17T18:33:15.376Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:33:14.507Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" bets 4.05",2023-02-17T18:33:10.410Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:33:06.669Z,1.68E+14
+"River: A‚ô£, K‚ô£, A‚ô¶, 4‚ô• [4‚ô†]",2023-02-17T18:33:03.812Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:33:02.992Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 1.80",2023-02-17T18:33:01.911Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 1.80",2023-02-17T18:32:59.806Z,1.68E+14
+"Turn: A‚ô£, K‚ô£, A‚ô¶ [4‚ô•]",2023-02-17T18:32:56.158Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.36",2023-02-17T18:32:55.262Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.36",2023-02-17T18:32:53.943Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:32:51.046Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" bets 0.36",2023-02-17T18:32:47.509Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:32:42.943Z,1.68E+14
+"Flop:  [A‚ô£, K‚ô£, A‚ô¶]",2023-02-17T18:32:39.939Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.18",2023-02-17T18:32:39.065Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.18",2023-02-17T18:32:37.814Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.18",2023-02-17T18:32:36.371Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.18",2023-02-17T18:32:34.823Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:32:29.136Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:32:29.136Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (31.16) | #2 ""teddy @ kOMtSCwNxC"" (37.04) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (14.80) | #10 ""Thler @ p2tt-yMqE3"" (21.00)",2023-02-17T18:32:29.136Z,1.68E+14
+"-- starting hand #61 (id: 6fzz05qm9zyx)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:32:29.136Z,1.68E+14
+-- ending hand #60 --,2023-02-17T18:32:26.141Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 5.76 from pot",2023-02-17T18:32:26.141Z,1.68E+14
+"Uncalled bet of 5.76 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:32:26.141Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:32:25.227Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:31:55.010Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 5.76",2023-02-17T18:31:53.399Z,1.68E+14
+"River: J‚ô¶, K‚ô†, K‚ô£, 6‚ô¶ [J‚ô•]",2023-02-17T18:31:50.304Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:31:49.446Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:31:47.788Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:31:44.224Z,1.68E+14
+"Turn: J‚ô¶, K‚ô†, K‚ô£ [6‚ô¶]",2023-02-17T18:31:43.295Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 1.44",2023-02-17T18:31:42.381Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 1.44",2023-02-17T18:31:35.924Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:31:20.825Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 1.44",2023-02-17T18:31:19.497Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:31:14.637Z,1.68E+14
+"Flop:  [J‚ô¶, K‚ô†, K‚ô£]",2023-02-17T18:31:12.076Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.36",2023-02-17T18:31:11.217Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.36",2023-02-17T18:31:09.535Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.36",2023-02-17T18:31:08.555Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.36",2023-02-17T18:31:06.246Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:31:02.910Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:31:00.458Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:31:00.458Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (27.20) | #2 ""teddy @ kOMtSCwNxC"" (38.84) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (15.16) | #10 ""Thler @ p2tt-yMqE3"" (22.80)",2023-02-17T18:31:00.458Z,1.68E+14
+"-- starting hand #60 (id: vihj8pashvqq)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:31:00.458Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 2‚ô¶, 3‚ô£.",2023-02-17T18:30:57.255Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 9‚ô£, 10‚ô•.",2023-02-17T18:30:56.894Z,1.68E+14
+-- ending hand #59 --,2023-02-17T18:30:56.057Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 2.40 from pot",2023-02-17T18:30:56.057Z,1.68E+14
+"Uncalled bet of 2.40 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:30:56.057Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:30:55.178Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 3.12",2023-02-17T18:30:42.695Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 0.72",2023-02-17T18:30:40.675Z,1.68E+14
+"River: J‚ô£, 5‚ô¶, 7‚ô¶, 2‚ô• [3‚ô•]",2023-02-17T18:30:36.835Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:30:35.924Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:30:34.926Z,1.68E+14
+"Turn: J‚ô£, 5‚ô¶, 7‚ô¶ [2‚ô•]",2023-02-17T18:30:28.632Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:30:27.784Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.24",2023-02-17T18:30:26.532Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 0.24",2023-02-17T18:30:25.155Z,1.68E+14
+"Flop:  [J‚ô£, 5‚ô¶, 7‚ô¶]",2023-02-17T18:30:19.632Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.16",2023-02-17T18:30:18.797Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.16",2023-02-17T18:30:17.042Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.16",2023-02-17T18:30:15.614Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:30:13.291Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:30:10.876Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:30:08.218Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:30:08.218Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (25.92) | #2 ""teddy @ kOMtSCwNxC"" (38.84) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (15.32) | #10 ""Thler @ p2tt-yMqE3"" (23.92)",2023-02-17T18:30:08.218Z,1.68E+14
+"-- starting hand #59 (id: giaqd0q8d1hc)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:30:08.218Z,1.68E+14
+-- ending hand #58 --,2023-02-17T18:30:02.264Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 2.64 from pot",2023-02-17T18:30:02.264Z,1.68E+14
+"Uncalled bet of 2.64 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:30:02.264Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:30:01.451Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 2.64",2023-02-17T18:29:58.853Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:29:55.189Z,1.68E+14
+"Turn: 6‚ô†, 9‚ô¶, 7‚ô† [7‚ô•]",2023-02-17T18:29:54.210Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.88",2023-02-17T18:29:53.345Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:29:52.479Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.88",2023-02-17T18:29:48.320Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:29:36.926Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:29:35.302Z,1.68E+14
+"Flop:  [6‚ô†, 9‚ô¶, 7‚ô†]",2023-02-17T18:29:30.994Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.28",2023-02-17T18:29:30.182Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:29:28.802Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:29:27.629Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:29:26.428Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:29:24.391Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:29:24.391Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (27.08) | #2 ""teddy @ kOMtSCwNxC"" (37.36) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (15.36) | #10 ""Thler @ p2tt-yMqE3"" (24.20)",2023-02-17T18:29:24.391Z,1.68E+14
+"-- starting hand #58 (id: fiunel6qe226)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:29:24.391Z,1.68E+14
+-- ending hand #57 --,2023-02-17T18:29:18.482Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 0.48 from pot",2023-02-17T18:29:18.482Z,1.68E+14
+"Uncalled bet of 0.48 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:29:18.482Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:29:17.651Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:29:16.556Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:29:15.466Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.66",2023-02-17T18:29:13.902Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.18",2023-02-17T18:29:11.263Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:29:03.581Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:29:03.581Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (26.78) | #2 ""teddy @ kOMtSCwNxC"" (37.40) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (15.44) | #10 ""Thler @ p2tt-yMqE3"" (24.38)",2023-02-17T18:29:03.581Z,1.68E+14
+"-- starting hand #57 (id: y6ei6ejsuswy)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:29:03.581Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a K‚ô†, J‚ô¶.",2023-02-17T18:28:59.445Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 5‚ô•, 9‚ô•.",2023-02-17T18:28:58.060Z,1.68E+14
+-- ending hand #56 --,2023-02-17T18:28:56.179Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 4.32 from pot",2023-02-17T18:28:56.179Z,1.68E+14
+"Uncalled bet of 4.32 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:28:56.179Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:28:55.263Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 4.32",2023-02-17T18:28:49.921Z,1.68E+14
+"Turn: 9‚ô£, 7‚ô£, 5‚ô£ [3‚ô¶]",2023-02-17T18:28:47.763Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:28:46.945Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:28:41.698Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 1.44",2023-02-17T18:28:40.597Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 1.44",2023-02-17T18:28:39.472Z,1.68E+14
+"Flop:  [9‚ô£, 7‚ô£, 5‚ô£]",2023-02-17T18:28:37.202Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.36",2023-02-17T18:28:36.355Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.36",2023-02-17T18:28:34.721Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.36",2023-02-17T18:28:33.723Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.36",2023-02-17T18:28:31.931Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:28:29.384Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:28:27.340Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:28:27.340Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (24.26) | #2 ""teddy @ kOMtSCwNxC"" (39.20) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (15.80) | #10 ""Thler @ p2tt-yMqE3"" (24.74)",2023-02-17T18:28:27.340Z,1.68E+14
+"-- starting hand #56 (id: zsjgsbyywhwa)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:28:27.340Z,1.68E+14
+-- ending hand #55 --,2023-02-17T18:28:24.393Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 7.68 from pot",2023-02-17T18:28:24.393Z,1.68E+14
+"Uncalled bet of 8.12 returned to ""Haoyang Zhang @ QntlFAl8Rf""",2023-02-17T18:28:24.393Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:28:23.543Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" bets 8.12 and go all in",2023-02-17T18:28:21.469Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:28:18.899Z,1.68E+14
+"River: Q‚ô¶, 9‚ô†, 5‚ô•, A‚ô† [9‚ô•]",2023-02-17T18:28:17.526Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:28:16.710Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 2.56",2023-02-17T18:28:15.008Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:28:11.562Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" raises to 2.56",2023-02-17T18:28:10.430Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 1.28",2023-02-17T18:28:07.633Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:28:03.667Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:28:00.333Z,1.68E+14
+"Turn: Q‚ô¶, 9‚ô†, 5‚ô• [A‚ô†]",2023-02-17T18:27:57.973Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.24",2023-02-17T18:27:57.159Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.24",2023-02-17T18:27:56.260Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.24",2023-02-17T18:27:53.736Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" bets 0.24",2023-02-17T18:27:50.879Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:27:46.413Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:27:44.377Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:27:40.854Z,1.68E+14
+"Flop:  [Q‚ô¶, 9‚ô†, 5‚ô•]",2023-02-17T18:27:36.538Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:27:35.682Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.08",2023-02-17T18:27:33.714Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.08",2023-02-17T18:27:31.453Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:27:29.072Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:27:26.937Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:27:26.937Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (27.14) | #2 ""teddy @ kOMtSCwNxC"" (40.80) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (11.00) | #10 ""Thler @ p2tt-yMqE3"" (25.06)",2023-02-17T18:27:26.937Z,1.68E+14
+"-- starting hand #55 (id: rdukanbd4dyz)  (No Limit Texas Hold'em) (dealer: ""Haoyang Zhang @ QntlFAl8Rf"") --",2023-02-17T18:27:26.937Z,1.68E+14
+"The admin updated the player ""dere @ IB1rRLac0F"" stack from 17.14 to 27.14.",2023-02-17T18:27:26.937Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 4‚ô†, 5‚ô†.",2023-02-17T18:27:25.650Z,1.68E+14
+-- ending hand #54 --,2023-02-17T18:27:20.331Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 1.12 from pot",2023-02-17T18:27:20.331Z,1.68E+14
+"Uncalled bet of 1.12 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:27:20.331Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:27:19.502Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:27:16.431Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:27:10.673Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 1.12",2023-02-17T18:27:09.053Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:27:06.896Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:27:04.847Z,1.68E+14
+"Flop:  [8‚ô†, 3‚ô†, 10‚ô£]",2023-02-17T18:27:02.121Z,1.68E+14
+"WARNING: the admin queued the stack change for the player ""dere @ IB1rRLac0F"" adding 10.00 chips in the next hand.",2023-02-17T18:27:01.959Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.28",2023-02-17T18:27:01.293Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:26:59.540Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:26:57.872Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:26:55.749Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:26:52.697Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a small blind of 0.04",2023-02-17T18:26:52.697Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (16.30) | #2 ""teddy @ kOMtSCwNxC"" (41.08) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (11.28) | #10 ""Thler @ p2tt-yMqE3"" (25.34)",2023-02-17T18:26:52.697Z,1.68E+14
+"-- starting hand #54 (id: 9nxz3br59dsv)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:26:52.697Z,1.68E+14
+-- ending hand #53 --,2023-02-17T18:26:46.655Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 3‚ô£, 9‚ô•.",2023-02-17T18:26:46.655Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" collected 3.36 from pot with Two Pair, Q's & 8's (combination: Q‚ô£, Q‚ô†, 8‚ô¶, 8‚ô•, K‚ô¶)",2023-02-17T18:26:46.655Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" shows a Q‚ô£, 2‚ô£.",2023-02-17T18:26:46.655Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:26:45.829Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 1.12",2023-02-17T18:26:43.092Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" folds",2023-02-17T18:26:41.273Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 1.12",2023-02-17T18:26:40.049Z,1.68E+14
+"River: 3‚ô¶, K‚ô¶, 8‚ô¶, Q‚ô† [8‚ô•]",2023-02-17T18:26:36.039Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:26:35.212Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:26:32.475Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:26:30.932Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:26:29.768Z,1.68E+14
+"Turn: 3‚ô¶, K‚ô¶, 8‚ô¶ [Q‚ô†]",2023-02-17T18:26:28.038Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:26:27.162Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:26:24.674Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:26:23.046Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:26:21.915Z,1.68E+14
+"Flop:  [3‚ô¶, K‚ô¶, 8‚ô¶]",2023-02-17T18:26:18.235Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.28",2023-02-17T18:26:17.411Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:26:16.197Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:26:14.979Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.28",2023-02-17T18:26:13.685Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" posts a big blind of 0.08",2023-02-17T18:26:07.121Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:26:07.121Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (16.58) | #2 ""teddy @ kOMtSCwNxC"" (42.48) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (11.56) | #10 ""Thler @ p2tt-yMqE3"" (23.38)",2023-02-17T18:26:07.121Z,1.68E+14
+"-- starting hand #53 (id: g2cwp9ra9nzh)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:26:07.121Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a J‚ô£, 3‚ô•.",2023-02-17T18:26:05.278Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" shows a 7‚ô¶, 7‚ô£.",2023-02-17T18:26:04.556Z,1.68E+14
+-- ending hand #52 --,2023-02-17T18:26:02.802Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" collected 2.30 from pot",2023-02-17T18:26:02.802Z,1.68E+14
+"Uncalled bet of 9.26 returned to ""Haoyang Zhang @ QntlFAl8Rf""",2023-02-17T18:26:02.802Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:26:01.913Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:26:00.972Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" bets 9.26 and go all in",2023-02-17T18:25:58.024Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:25:55.352Z,1.68E+14
+"River: A‚ô†, 4‚ô†, J‚ô†, 4‚ô¶ [4‚ô£]",2023-02-17T18:25:53.398Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:25:52.586Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:25:51.159Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:25:49.753Z,1.68E+14
+"Turn: A‚ô†, 4‚ô†, J‚ô† [4‚ô¶]",2023-02-17T18:25:48.195Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" calls 0.46",2023-02-17T18:25:47.324Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.46",2023-02-17T18:25:45.594Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 0.46",2023-02-17T18:25:44.031Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" checks",2023-02-17T18:25:37.866Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:25:36.727Z,1.68E+14
+"Flop:  [A‚ô†, 4‚ô†, J‚ô†]",2023-02-17T18:25:34.697Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:25:33.830Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:25:32.895Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.28",2023-02-17T18:25:31.222Z,1.68E+14
+"""Haoyang Zhang @ QntlFAl8Rf"" raises to 0.28",2023-02-17T18:25:28.033Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:25:24.478Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:25:24.478Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (17.32) | #2 ""teddy @ kOMtSCwNxC"" (42.56) | #9 ""Haoyang Zhang @ QntlFAl8Rf"" (10.00) | #10 ""Thler @ p2tt-yMqE3"" (24.12)",2023-02-17T18:25:24.478Z,1.68E+14
+"-- starting hand #52 (id: eutxqqus2gsn)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:25:24.478Z,1.68E+14
+"The player ""Haoyang Zhang @ QntlFAl8Rf"" joined the game with a stack of 10.00.",2023-02-17T18:25:24.478Z,1.68E+14
+-- ending hand #51 --,2023-02-17T18:25:18.570Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 0.60 from pot",2023-02-17T18:25:18.570Z,1.68E+14
+"Uncalled bet of 0.60 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:25:18.570Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:25:17.679Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.60",2023-02-17T18:25:16.801Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:25:09.276Z,1.68E+14
+"Turn: 10‚ô•, 8‚ô¶, 5‚ô£ [J‚ô•]",2023-02-17T18:25:05.166Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.20",2023-02-17T18:25:04.308Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.20",2023-02-17T18:25:03.192Z,1.68E+14
+"Flop:  [10‚ô•, 8‚ô¶, 5‚ô£]",2023-02-17T18:25:00.162Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:24:59.250Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:24:58.345Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:24:53.121Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:24:51.237Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:24:51.237Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (17.60) | #2 ""teddy @ kOMtSCwNxC"" (42.24) | #10 ""Thler @ p2tt-yMqE3"" (24.16)",2023-02-17T18:24:51.237Z,1.68E+14
+"-- starting hand #51 (id: khdgmzt8exnj)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:24:51.237Z,1.68E+14
+-- ending hand #50 --,2023-02-17T18:24:45.204Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 17.60 from pot with Pair, 9's (combination: 9‚ô£, 9‚ô†, K‚ô†, 8‚ô£, 5‚ô•)",2023-02-17T18:24:45.204Z,1.68E+14
+"The admin approved the player ""Haoyang Zhang @ QntlFAl8Rf"" participation with a stack of 10.00.",2023-02-17T18:24:44.302Z,1.68E+14
+"River: K‚ô†, 9‚ô†, 4‚ô¶, 8‚ô£ [2‚ô£]",2023-02-17T18:24:41.149Z,1.68E+14
+"The player ""Haoyang Zhang @ QntlFAl8Rf"" requested a seat.",2023-02-17T18:24:39.658Z,1.68E+14
+"Turn: K‚ô†, 9‚ô†, 4‚ô¶ [8‚ô£]",2023-02-17T18:24:37.143Z,1.68E+14
+"Flop:  [K‚ô†, 9‚ô†, 4‚ô¶]",2023-02-17T18:24:33.035Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 6‚ô†, A‚ô¶.",2023-02-17T18:24:28.994Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 9‚ô£, 5‚ô•.",2023-02-17T18:24:28.994Z,1.68E+14
+Some players choose to not run it twice.,2023-02-17T18:24:28.155Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to not run it twice.",2023-02-17T18:24:28.155Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:24:27.395Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:24:27.395Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 8.76",2023-02-17T18:24:26.263Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 8.76 and go all in",2023-02-17T18:24:23.696Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:24:20.029Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:24:20.029Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (8.76) | #2 ""teddy @ kOMtSCwNxC"" (51.00) | #10 ""Thler @ p2tt-yMqE3"" (24.24)",2023-02-17T18:24:20.029Z,1.68E+14
+"-- starting hand #50 (id: dmt6iwjancms)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:24:20.029Z,1.68E+14
+-- ending hand #49 --,2023-02-17T18:24:14.020Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 10‚ô•, A‚ô†.",2023-02-17T18:24:14.020Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 51.00 from pot with Two Pair, 8's & 6's (combination: 8‚ô¶, 8‚ô•, 6‚ô£, 6‚ô†, Q‚ô£)",2023-02-17T18:24:14.020Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 6‚ô£, 8‚ô¶.",2023-02-17T18:24:14.020Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 21.90 and go all in",2023-02-17T18:24:13.189Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 21.90",2023-02-17T18:24:11.881Z,1.68E+14
+"River: 8‚ô•, 3‚ô¶, 6‚ô†, Q‚ô£ [9‚ô¶]",2023-02-17T18:24:08.016Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 2.88",2023-02-17T18:24:07.202Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 2.88",2023-02-17T18:24:05.830Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 1.44",2023-02-17T18:24:03.131Z,1.68E+14
+"Turn: 8‚ô•, 3‚ô¶, 6‚ô† [Q‚ô£]",2023-02-17T18:24:00.767Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.48",2023-02-17T18:23:59.927Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.48",2023-02-17T18:23:58.567Z,1.68E+14
+"Flop:  [8‚ô•, 3‚ô¶, 6‚ô†]",2023-02-17T18:23:56.210Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.24",2023-02-17T18:23:55.369Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.24",2023-02-17T18:23:54.323Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:23:51.882Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:23:50.097Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:23:50.097Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (34.26) | #2 ""teddy @ kOMtSCwNxC"" (25.50) | #10 ""Thler @ p2tt-yMqE3"" (24.24)",2023-02-17T18:23:50.097Z,1.68E+14
+"-- starting hand #49 (id: 86ktnmle6xhq)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:23:50.097Z,1.68E+14
+-- ending hand #48 --,2023-02-17T18:23:44.191Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 0.96 from pot",2023-02-17T18:23:44.191Z,1.68E+14
+"Uncalled bet of 0.96 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:23:44.191Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:23:43.382Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:23:40.322Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.96",2023-02-17T18:23:39.432Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:23:35.832Z,1.68E+14
+"Flop:  [10‚ô†, 8‚ô†, 6‚ô£]",2023-02-17T18:23:33.479Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.32",2023-02-17T18:23:32.594Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.32",2023-02-17T18:23:30.729Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.32",2023-02-17T18:23:29.248Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.08",2023-02-17T18:23:25.823Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:23:22.575Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:23:20.874Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:23:20.874Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (33.62) | #2 ""teddy @ kOMtSCwNxC"" (25.82) | #10 ""Thler @ p2tt-yMqE3"" (24.56)",2023-02-17T18:23:20.874Z,1.68E+14
+"-- starting hand #48 (id: pzjdabwawpow)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:23:20.874Z,1.68E+14
+-- ending hand #47 --,2023-02-17T18:23:14.866Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" shows a Q‚ô•, 5‚ô•.",2023-02-17T18:23:14.866Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 5.92 from pot with Two Pair, A's & Q's (combination: A‚ô•, A‚ô£, Q‚ô£, Q‚ô†, 8‚ô•)",2023-02-17T18:23:14.866Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 8‚ô•, Q‚ô£.",2023-02-17T18:23:14.866Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:23:13.950Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 1.28",2023-02-17T18:23:12.594Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 1.28",2023-02-17T18:23:11.412Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:23:01.216Z,1.68E+14
+"River: Q‚ô†, 2‚ô£, A‚ô•, A‚ô£ [5‚ô†]",2023-02-17T18:22:58.254Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:22:57.442Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:22:55.702Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:22:54.050Z,1.68E+14
+"Turn: Q‚ô†, 2‚ô£, A‚ô• [A‚ô£]",2023-02-17T18:22:51.453Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.84",2023-02-17T18:22:50.634Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.84",2023-02-17T18:22:49.682Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.84",2023-02-17T18:22:45.274Z,1.68E+14
+"Flop:  [Q‚ô†, 2‚ô£, A‚ô•]",2023-02-17T18:22:39.419Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.28",2023-02-17T18:22:38.555Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:22:37.286Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:22:35.762Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:22:32.907Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:22:32.907Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (30.10) | #2 ""teddy @ kOMtSCwNxC"" (26.94) | #10 ""Thler @ p2tt-yMqE3"" (26.96)",2023-02-17T18:22:32.907Z,1.68E+14
+"-- starting hand #47 (id: la1abwuzcmnd)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:22:32.907Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 9‚ô¶, Q‚ô•.",2023-02-17T18:22:30.558Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 10‚ô¶, 5‚ô¶.",2023-02-17T18:22:26.727Z,1.68E+14
+-- ending hand #46 --,2023-02-17T18:22:25.597Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 2.12 from pot",2023-02-17T18:22:25.597Z,1.68E+14
+"Uncalled bet of 2.12 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:22:25.597Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:22:24.743Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 2.12",2023-02-17T18:22:23.286Z,1.68E+14
+"Flop:  [3‚ô•, 6‚ô£, K‚ô†]",2023-02-17T18:22:20.859Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:22:19.992Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.92",2023-02-17T18:22:17.665Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.92",2023-02-17T18:22:16.712Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.28",2023-02-17T18:22:14.665Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:22:08.288Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:22:08.288Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (28.90) | #2 ""teddy @ kOMtSCwNxC"" (27.86) | #10 ""Thler @ p2tt-yMqE3"" (27.24)",2023-02-17T18:22:08.288Z,1.68E+14
+"-- starting hand #46 (id: 2ivhh6azy4nk)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:22:08.288Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 4‚ô†, 5‚ô†.",2023-02-17T18:22:04.023Z,1.68E+14
+-- ending hand #45 --,2023-02-17T18:22:01.641Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 1.80 from pot",2023-02-17T18:22:01.641Z,1.68E+14
+"Uncalled bet of 27.10 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:22:01.641Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:22:00.817Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 27.98 and go all in",2023-02-17T18:21:58.362Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 0.88",2023-02-17T18:21:55.140Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:21:52.241Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:21:49.095Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:21:42.078Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:21:40.679Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:21:40.679Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (27.98) | #2 ""teddy @ kOMtSCwNxC"" (28.74) | #10 ""Thler @ p2tt-yMqE3"" (27.28)",2023-02-17T18:21:40.679Z,1.68E+14
+"-- starting hand #45 (id: bsnfnbho9ycp)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:21:40.679Z,1.68E+14
+-- ending hand #44 --,2023-02-17T18:21:37.758Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" collected 22.68 from pot",2023-02-17T18:21:37.758Z,1.68E+14
+"Uncalled bet of 4.60 returned to ""Thler @ p2tt-yMqE3""",2023-02-17T18:21:37.758Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:21:36.889Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 12.16 and go all in",2023-02-17T18:21:35.281Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 7.56",2023-02-17T18:21:32.876Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:21:30.812Z,1.68E+14
+"River: 5‚ô•, A‚ô£, 7‚ô†, 6‚ô£ [J‚ô•]",2023-02-17T18:21:29.025Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 2.52",2023-02-17T18:21:28.220Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 2.52",2023-02-17T18:21:25.787Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:21:23.612Z,1.68E+14
+"Turn: 5‚ô•, A‚ô£, 7‚ô† [6‚ô£]",2023-02-17T18:21:21.264Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.84",2023-02-17T18:21:20.454Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:21:19.229Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.84",2023-02-17T18:21:17.923Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:21:15.037Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:21:13.259Z,1.68E+14
+"Flop:  [5‚ô•, A‚ô£, 7‚ô†]",2023-02-17T18:21:09.214Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.28",2023-02-17T18:21:08.344Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:21:06.931Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:21:02.580Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:21:00.419Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:21:00.419Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (39.18) | #2 ""teddy @ kOMtSCwNxC"" (29.02) | #10 ""Thler @ p2tt-yMqE3"" (15.80)",2023-02-17T18:21:00.419Z,1.68E+14
+"-- starting hand #44 (id: zdpk8snp05f5)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:21:00.419Z,1.68E+14
+-- ending hand #43 --,2023-02-17T18:20:54.344Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 9‚ô•, K‚ô£.",2023-02-17T18:20:54.344Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 29.02 from pot with Two Pair, A's & 9's (combination: A‚ô†, A‚ô£, 9‚ô†, 9‚ô£, Q‚ô•)",2023-02-17T18:20:54.344Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a A‚ô†, 9‚ô†.",2023-02-17T18:20:54.344Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 10.73",2023-02-17T18:20:53.522Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 10.73 and go all in",2023-02-17T18:20:43.236Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:20:40.444Z,1.68E+14
+"River: 9‚ô£, 3‚ô†, A‚ô£, 6‚ô¶ [Q‚ô•]",2023-02-17T18:20:39.020Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 2.52",2023-02-17T18:20:38.181Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 2.52",2023-02-17T18:20:36.456Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:20:33.236Z,1.68E+14
+"Turn: 9‚ô£, 3‚ô†, A‚ô£ [6‚ô¶]",2023-02-17T18:20:31.920Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.84",2023-02-17T18:20:31.083Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:20:28.106Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.84",2023-02-17T18:20:25.231Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:20:22.615Z,1.68E+14
+"Flop:  [9‚ô£, 3‚ô†, A‚ô£]",2023-02-17T18:20:20.972Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:20:20.117Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:20:19.066Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.28",2023-02-17T18:20:17.186Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:20:14.602Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:20:14.602Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (53.55) | #2 ""teddy @ kOMtSCwNxC"" (14.37) | #10 ""Thler @ p2tt-yMqE3"" (16.08)",2023-02-17T18:20:14.602Z,1.68E+14
+"-- starting hand #43 (id: aav5zywjtj8x)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:20:14.602Z,1.68E+14
+-- ending hand #42 --,2023-02-17T18:20:08.696Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 1.80 from pot",2023-02-17T18:20:08.696Z,1.68E+14
+"Uncalled bet of 1.80 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:20:08.696Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:20:07.831Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 1.80",2023-02-17T18:19:58.925Z,1.68E+14
+"Turn: J‚ô£, 4‚ô•, 9‚ô£ [7‚ô†]",2023-02-17T18:19:56.892Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.60",2023-02-17T18:19:56.086Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.60",2023-02-17T18:19:52.369Z,1.68E+14
+"Flop:  [J‚ô£, 4‚ô•, 9‚ô£]",2023-02-17T18:19:49.694Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:19:48.883Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:19:47.647Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:19:45.516Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:19:44.413Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:19:42.186Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:19:42.186Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (52.63) | #2 ""teddy @ kOMtSCwNxC"" (15.25) | #10 ""Thler @ p2tt-yMqE3"" (16.12)",2023-02-17T18:19:42.186Z,1.68E+14
+"-- starting hand #42 (id: y8qk3elrd1bs)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:19:42.186Z,1.68E+14
+-- ending hand #41 --,2023-02-17T18:19:34.183Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 15.25 from pot with Straight, K High on the second run  (combination: K‚ô•, Q‚ô¶, J‚ô•, 10‚ô†, 9‚ô¶)",2023-02-17T18:19:34.183Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 15.25 from pot with Pair, K's (combination: K‚ô£, K‚ô¶, A‚ô•, 9‚ô£, 8‚ô£)",2023-02-17T18:19:34.183Z,1.68E+14
+"River (second run): 10‚ô†, J‚ô•, Q‚ô•, 10‚ô£ [K‚ô•]",2023-02-17T18:19:30.177Z,1.68E+14
+"Turn (second run): 10‚ô†, J‚ô•, Q‚ô• [10‚ô£]",2023-02-17T18:19:26.121Z,1.68E+14
+"Flop (second run):  [10‚ô†, J‚ô•, Q‚ô•]",2023-02-17T18:19:22.076Z,1.68E+14
+"River: 9‚ô£, 2‚ô£, K‚ô¶, 8‚ô£ [A‚ô•]",2023-02-17T18:19:17.974Z,1.68E+14
+"Turn: 9‚ô£, 2‚ô£, K‚ô¶ [8‚ô£]",2023-02-17T18:19:13.919Z,1.68E+14
+"Flop:  [9‚ô£, 2‚ô£, K‚ô¶]",2023-02-17T18:19:09.915Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a K‚ô£, 4‚ô†.",2023-02-17T18:19:05.870Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 9‚ô¶, Q‚ô¶.",2023-02-17T18:19:05.870Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:19:05.030Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" chooses to  run it twice.",2023-02-17T18:19:05.030Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:19:03.921Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:19:03.265Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 14.69",2023-02-17T18:19:03.265Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:19:01.507Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 14.69 and go all in",2023-02-17T18:18:58.124Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 1.12",2023-02-17T18:18:54.815Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 1.12",2023-02-17T18:18:53.386Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:18:48.911Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:18:47.328Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:18:45.457Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:18:45.457Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (52.07) | #2 ""teddy @ kOMtSCwNxC"" (14.69) | #10 ""Thler @ p2tt-yMqE3"" (17.24)",2023-02-17T18:18:45.457Z,1.68E+14
+"-- starting hand #41 (id: fgvyacbfmrpb)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:18:45.457Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a J‚ô¶, 2‚ô£.",2023-02-17T18:18:40.177Z,1.68E+14
+-- ending hand #40 --,2023-02-17T18:18:38.854Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" collected 6.81 from pot with Full House, Q's over 2's (combination: Q‚ô†, Q‚ô£, Q‚ô•, 2‚ô•, 2‚ô†)",2023-02-17T18:18:38.854Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" shows a 7‚ô£, Q‚ô†.",2023-02-17T18:18:38.854Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:18:37.998Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 2.04",2023-02-17T18:18:36.734Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 2.04",2023-02-17T18:18:35.615Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:18:32.429Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:18:31.088Z,1.68E+14
+"River: 2‚ô•, Q‚ô£, 2‚ô†, Q‚ô• [10‚ô¶]",2023-02-17T18:18:29.683Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:18:28.858Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:18:27.181Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:18:24.557Z,1.68E+14
+"Turn: 2‚ô•, Q‚ô£, 2‚ô† [Q‚ô•]",2023-02-17T18:18:22.835Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.63",2023-02-17T18:18:21.999Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.63",2023-02-17T18:18:20.395Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.63",2023-02-17T18:18:16.629Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:18:11.531Z,1.68E+14
+"Flop:  [2‚ô•, Q‚ô£, 2‚ô†]",2023-02-17T18:18:09.521Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:18:08.682Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:18:07.385Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.28",2023-02-17T18:18:05.965Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:18:00.318Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:18:00.318Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (55.02) | #2 ""teddy @ kOMtSCwNxC"" (15.60) | #10 ""Thler @ p2tt-yMqE3"" (13.38)",2023-02-17T18:18:00.318Z,1.68E+14
+"-- starting hand #40 (id: iev2cedoyo8y)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:18:00.318Z,1.68E+14
+-- ending hand #39 --,2023-02-17T18:17:54.414Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" collected 2.40 from pot",2023-02-17T18:17:54.414Z,1.68E+14
+"Uncalled bet of 2.40 returned to ""Thler @ p2tt-yMqE3""",2023-02-17T18:17:54.414Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:17:53.531Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:17:37.019Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 3.36",2023-02-17T18:17:36.125Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 0.96",2023-02-17T18:17:19.840Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.24",2023-02-17T18:17:16.486Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:17:13.165Z,1.68E+14
+"Flop:  [A‚ô¶, 6‚ô•, K‚ô•]",2023-02-17T18:17:10.374Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:17:09.486Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.08",2023-02-17T18:17:05.724Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.08",2023-02-17T18:17:03.223Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:17:01.168Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:17:01.168Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (55.34) | #2 ""teddy @ kOMtSCwNxC"" (16.64) | #10 ""Thler @ p2tt-yMqE3"" (12.02)",2023-02-17T18:17:01.168Z,1.68E+14
+"-- starting hand #39 (id: ipzcmu2ogztu)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:17:01.168Z,1.68E+14
+-- ending hand #38 --,2023-02-17T18:16:55.160Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 3‚ô£, K‚ô¶.",2023-02-17T18:16:55.160Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 16.64 from pot with Full House, A's over 4's (combination: A‚ô•, A‚ô£, A‚ô¶, 4‚ô£, 4‚ô•)",2023-02-17T18:16:55.160Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 6‚ô¶, A‚ô•.",2023-02-17T18:16:55.160Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 5.08",2023-02-17T18:16:54.283Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 5.08 and go all in",2023-02-17T18:16:53.354Z,1.68E+14
+"River: 8‚ô•, A‚ô£, 4‚ô£, A‚ô¶ [4‚ô•]",2023-02-17T18:16:50.960Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 2.16",2023-02-17T18:16:50.134Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 2.16",2023-02-17T18:16:48.954Z,1.68E+14
+"Turn: 8‚ô•, A‚ô£, 4‚ô£ [A‚ô¶]",2023-02-17T18:16:45.870Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.72",2023-02-17T18:16:45.013Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.72",2023-02-17T18:16:43.515Z,1.68E+14
+"Flop:  [8‚ô•, A‚ô£, 4‚ô£]",2023-02-17T18:16:39.867Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.32",2023-02-17T18:16:39.056Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:16:37.616Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 0.32",2023-02-17T18:16:34.502Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.08",2023-02-17T18:16:31.187Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:16:29.790Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:16:29.790Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (63.62) | #2 ""teddy @ kOMtSCwNxC"" (8.28) | #10 ""Thler @ p2tt-yMqE3"" (12.10)",2023-02-17T18:16:29.790Z,1.68E+14
+"-- starting hand #38 (id: eunzwcxgcbbs)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:16:29.790Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" shows a 5‚ô¶, K‚ô†.",2023-02-17T18:16:24.685Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 6‚ô£, 7‚ô•.",2023-02-17T18:16:22.749Z,1.68E+14
+-- ending hand #37 --,2023-02-17T18:16:22.455Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" collected 2.76 from pot",2023-02-17T18:16:22.455Z,1.68E+14
+"Uncalled bet of 9.34 returned to ""Thler @ p2tt-yMqE3""",2023-02-17T18:16:22.455Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:16:21.619Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:16:20.723Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 10.26 and go all in",2023-02-17T18:16:19.088Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.92",2023-02-17T18:16:16.668Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.92",2023-02-17T18:16:15.614Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.28",2023-02-17T18:16:11.766Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:16:08.726Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:16:08.726Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (64.54) | #2 ""teddy @ kOMtSCwNxC"" (9.20) | #10 ""Thler @ p2tt-yMqE3"" (10.26)",2023-02-17T18:16:08.726Z,1.68E+14
+"-- starting hand #37 (id: levcblivrv9v)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:16:08.726Z,1.68E+14
+-- ending hand #36 --,2023-02-17T18:16:02.762Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 4.56 from pot",2023-02-17T18:16:02.762Z,1.68E+14
+"Uncalled bet of 4.56 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:16:02.762Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:16:01.919Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 4.56",2023-02-17T18:15:50.236Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:15:47.148Z,1.68E+14
+"Turn: 8‚ô¶, A‚ô•, 3‚ô† [6‚ô¶]",2023-02-17T18:15:38.879Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:15:38.049Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 1.14",2023-02-17T18:15:37.171Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 1.14",2023-02-17T18:15:35.033Z,1.68E+14
+"Flop:  [8‚ô¶, A‚ô•, 3‚ô†]",2023-02-17T18:15:25.985Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.76",2023-02-17T18:15:25.182Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.76",2023-02-17T18:15:23.843Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.76",2023-02-17T18:15:21.629Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" raises to 0.28",2023-02-17T18:15:15.626Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:15:12.377Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:15:12.377Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (61.88) | #2 ""teddy @ kOMtSCwNxC"" (9.96) | #10 ""Thler @ p2tt-yMqE3"" (12.16)",2023-02-17T18:15:12.377Z,1.68E+14
+"-- starting hand #36 (id: pf9mv8jbhigu)  (No Limit Texas Hold'em) (dealer: ""teddy @ kOMtSCwNxC"") --",2023-02-17T18:15:12.377Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 6‚ô•, 7‚ô•.",2023-02-17T18:15:06.679Z,1.68E+14
+-- ending hand #35 --,2023-02-17T18:15:05.730Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 0.84 from pot",2023-02-17T18:15:05.730Z,1.68E+14
+"Uncalled bet of 0.84 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:15:05.730Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:15:04.922Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" folds",2023-02-17T18:15:03.775Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.84",2023-02-17T18:15:02.865Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:15:00.604Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:14:59.547Z,1.68E+14
+"Flop:  [3‚ô£, A‚ô£, Q‚ô†]",2023-02-17T18:14:55.852Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.28",2023-02-17T18:14:55.010Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" calls 0.28",2023-02-17T18:14:53.859Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:14:52.905Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:14:50.559Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a small blind of 0.04",2023-02-17T18:14:50.559Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (61.32) | #2 ""teddy @ kOMtSCwNxC"" (10.24) | #10 ""Thler @ p2tt-yMqE3"" (12.44)",2023-02-17T18:14:50.559Z,1.68E+14
+"-- starting hand #35 (id: ffl1zswwymrn)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:14:50.559Z,1.68E+14
+-- ending hand #34 --,2023-02-17T18:14:44.645Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" collected 0.48 from pot",2023-02-17T18:14:44.645Z,1.68E+14
+"Uncalled bet of 1.36 returned to ""teddy @ kOMtSCwNxC""",2023-02-17T18:14:44.645Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:14:43.770Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 1.36",2023-02-17T18:14:41.902Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:14:36.244Z,1.68E+14
+"Turn: 5‚ô¶, A‚ô•, 8‚ô• [Q‚ô¶]",2023-02-17T18:14:35.355Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.16",2023-02-17T18:14:34.500Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" bets 0.16",2023-02-17T18:14:33.569Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:14:31.076Z,1.68E+14
+"Flop:  [5‚ô¶, A‚ô•, 8‚ô•]",2023-02-17T18:14:29.896Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" checks",2023-02-17T18:14:29.089Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.08",2023-02-17T18:14:28.162Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:14:26.187Z,1.68E+14
+"""teddy @ kOMtSCwNxC"" posts a big blind of 0.08",2023-02-17T18:14:23.748Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:14:23.748Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (61.56) | #2 ""teddy @ kOMtSCwNxC"" (10.00) | #10 ""Thler @ p2tt-yMqE3"" (12.44)",2023-02-17T18:14:23.748Z,1.68E+14
+"-- starting hand #34 (id: uqx8g96feuw6)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:14:23.748Z,1.68E+14
+"The player ""teddy @ kOMtSCwNxC"" joined the game with a stack of 10.00.",2023-02-17T18:14:23.748Z,1.68E+14
+-- ending hand #33 --,2023-02-17T18:14:17.743Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" collected 12.44 from pot with Two Pair, K's & 10's (combination: K‚ô†, K‚ô¶, 10‚ô•, 10‚ô†, 9‚ô†)",2023-02-17T18:14:17.743Z,1.68E+14
+"River: K‚ô†, 2‚ô•, K‚ô¶, 6‚ô† [9‚ô†]",2023-02-17T18:14:13.689Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" shows a 10‚ô•, 10‚ô†.",2023-02-17T18:14:09.629Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 5‚ô†, 8‚ô£.",2023-02-17T18:14:09.629Z,1.68E+14
+Some players choose to not run it twice.,2023-02-17T18:14:08.799Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" chooses to not run it twice.",2023-02-17T18:14:08.799Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:14:06.991Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:14:06.053Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.82",2023-02-17T18:14:06.053Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 0.82 and go all in",2023-02-17T18:14:04.960Z,1.68E+14
+"Turn: K‚ô†, 2‚ô•, K‚ô¶ [6‚ô†]",2023-02-17T18:14:02.282Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 4.80",2023-02-17T18:14:01.431Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 4.80",2023-02-17T18:13:58.220Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 1.20",2023-02-17T18:13:52.881Z,1.68E+14
+"The admin approved the player ""teddy @ kOMtSCwNxC"" participation with a stack of 10.00.",2023-02-17T18:13:52.037Z,1.68E+14
+"Flop:  [K‚ô†, 2‚ô•, K‚ô¶]",2023-02-17T18:13:49.480Z,1.68E+14
+"The player ""teddy @ kOMtSCwNxC"" requested a seat.",2023-02-17T18:13:48.844Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.60",2023-02-17T18:13:48.629Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.60",2023-02-17T18:13:47.249Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.24",2023-02-17T18:13:43.719Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:13:40.610Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:13:40.610Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (67.78) | #10 ""Thler @ p2tt-yMqE3"" (6.22)",2023-02-17T18:13:40.610Z,1.68E+14
+"-- starting hand #33 (id: niowsekzmdvp)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:13:40.610Z,1.68E+14
+-- ending hand #32 --,2023-02-17T18:13:34.612Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 0.48 from pot",2023-02-17T18:13:34.612Z,1.68E+14
+"Uncalled bet of 0.48 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:13:34.612Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:13:33.722Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.48",2023-02-17T18:13:32.640Z,1.68E+14
+"Flop:  [7‚ô£, 2‚ô£, J‚ô¶]",2023-02-17T18:13:30.606Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.24",2023-02-17T18:13:29.722Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.24",2023-02-17T18:13:28.612Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.08",2023-02-17T18:13:25.689Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:13:22.004Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:13:22.004Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (67.54) | #10 ""Thler @ p2tt-yMqE3"" (6.46)",2023-02-17T18:13:22.004Z,1.68E+14
+"-- starting hand #32 (id: v1hzt1n0cezl)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:13:22.004Z,1.68E+14
+-- ending hand #31 --,2023-02-17T18:13:19.004Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 1.92 from pot",2023-02-17T18:13:19.004Z,1.68E+14
+"Uncalled bet of 1.92 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:13:19.004Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:13:18.181Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 1.92",2023-02-17T18:13:05.093Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:13:02.129Z,1.68E+14
+"River: J‚ô•, 10‚ô¶, 7‚ô¶, 6‚ô¶ [J‚ô†]",2023-02-17T18:12:58.593Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:12:57.728Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:12:56.842Z,1.68E+14
+"Turn: J‚ô•, 10‚ô¶, 7‚ô¶ [6‚ô¶]",2023-02-17T18:12:52.990Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.72",2023-02-17T18:12:52.079Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.72",2023-02-17T18:12:49.234Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 0.36",2023-02-17T18:12:46.912Z,1.68E+14
+"Flop:  [J‚ô•, 10‚ô¶, 7‚ô¶]",2023-02-17T18:12:40.633Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.24",2023-02-17T18:12:39.796Z,1.68E+14
+"The player ""Teddy @ B8LTKKxPBI"" canceled the seat request.",2023-02-17T18:12:36.621Z,1.68E+14
+"The player ""Teddy @ B8LTKKxPBI"" requested a seat.",2023-02-17T18:12:35.186Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.24",2023-02-17T18:12:33.829Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.08",2023-02-17T18:12:31.174Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:12:29.981Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:12:29.981Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (66.58) | #10 ""Thler @ p2tt-yMqE3"" (7.42)",2023-02-17T18:12:29.981Z,1.68E+14
+"-- starting hand #31 (id: fib4cnxnbg8i)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:12:29.981Z,1.68E+14
+"The player ""Teddy @ B8LTKKxPBI"" quits the game with a stack of 0.00.",2023-02-17T18:12:29.981Z,1.68E+14
+-- ending hand #30 --,2023-02-17T18:12:21.965Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 14.88 from pot with Three of a Kind, 3's on the second run  (combination: 3‚ô¶, 3‚ô•, 3‚ô£, K‚ô•, J‚ô†)",2023-02-17T18:12:21.965Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 14.88 from pot with Three of a Kind, 3's (combination: 3‚ô¶, 3‚ô•, 3‚ô£, 8‚ô†, 6‚ô£)",2023-02-17T18:12:21.965Z,1.68E+14
+"River (second run): 3‚ô•, 3‚ô£, 8‚ô†, J‚ô† [K‚ô•]",2023-02-17T18:12:17.853Z,1.68E+14
+"Turn (second run): 3‚ô•, 3‚ô£, 8‚ô† [J‚ô†]",2023-02-17T18:12:13.845Z,1.68E+14
+"River: 3‚ô•, 3‚ô£, 8‚ô†, 2‚ô† [5‚ô¶]",2023-02-17T18:12:09.801Z,1.68E+14
+"Turn: 3‚ô•, 3‚ô£, 8‚ô† [2‚ô†]",2023-02-17T18:12:05.757Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a 9‚ô•, 4‚ô†.",2023-02-17T18:12:01.749Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 3‚ô¶, 6‚ô£.",2023-02-17T18:12:01.029Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:12:00.913Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" chooses to  run it twice.",2023-02-17T18:12:00.913Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:12:00.495Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:11:59.594Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 14.46",2023-02-17T18:11:59.594Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:11:58.153Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 14.46 and go all in",2023-02-17T18:11:55.468Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:11:51.965Z,1.68E+14
+"Flop:  [3‚ô•, 3‚ô£, 8‚ô†]",2023-02-17T18:11:50.338Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:11:49.438Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:11:48.517Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.28",2023-02-17T18:11:47.199Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a big blind of 0.08",2023-02-17T18:11:42.023Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:11:42.023Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (51.56) | #2 ""Teddy @ B8LTKKxPBI"" (14.74) | #10 ""Thler @ p2tt-yMqE3"" (7.70)",2023-02-17T18:11:42.023Z,1.68E+14
+"-- starting hand #30 (id: hjtq4njly5pz)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:11:42.023Z,1.68E+14
+-- ending hand #29 --,2023-02-17T18:11:36.018Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a A‚ô¶, 4‚ô¶.",2023-02-17T18:11:36.018Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 51.56 from pot with Two Pair, A's & Q's (combination: A‚ô†, A‚ô•, Q‚ô†, Q‚ô•, 8‚ô†)",2023-02-17T18:11:36.018Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a Q‚ô†, A‚ô†.",2023-02-17T18:11:36.018Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 24.28",2023-02-17T18:11:35.177Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 24.28 and go all in",2023-02-17T18:11:34.035Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 12.00",2023-02-17T18:11:31.875Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 3.00",2023-02-17T18:11:29.000Z,1.68E+14
+"River: 3‚ô£, Q‚ô•, 8‚ô†, A‚ô• [4‚ô£]",2023-02-17T18:11:27.132Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 1.20",2023-02-17T18:11:26.293Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 1.20",2023-02-17T18:11:24.520Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.60",2023-02-17T18:11:21.820Z,1.68E+14
+"Turn: 3‚ô£, Q‚ô•, 8‚ô† [A‚ô•]",2023-02-17T18:11:20.329Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T18:11:19.448Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:11:18.336Z,1.68E+14
+"Flop:  [3‚ô£, Q‚ô•, 8‚ô†]",2023-02-17T18:11:14.998Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:11:14.164Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:11:09.840Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:11:06.362Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.08",2023-02-17T18:11:05.305Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:11:03.910Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:11:03.910Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (25.76) | #2 ""Teddy @ B8LTKKxPBI"" (40.50) | #10 ""Thler @ p2tt-yMqE3"" (7.74)",2023-02-17T18:11:03.910Z,1.68E+14
+"-- starting hand #29 (id: cjzhht85yb76)  (No Limit Texas Hold'em) (dealer: ""Teddy @ B8LTKKxPBI"") --",2023-02-17T18:11:03.910Z,1.68E+14
+-- ending hand #28 --,2023-02-17T18:10:57.953Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 0.64 from pot",2023-02-17T18:10:57.953Z,1.68E+14
+"Uncalled bet of 0.64 returned to ""Teddy @ B8LTKKxPBI""",2023-02-17T18:10:57.953Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:10:57.135Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 0.64",2023-02-17T18:10:56.064Z,1.68E+14
+"Flop:  [10‚ô†, Q‚ô£, J‚ô•]",2023-02-17T18:10:52.305Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:10:51.409Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:10:50.330Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:10:49.282Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:10:46.497Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a small blind of 0.04",2023-02-17T18:10:46.497Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (26.04) | #2 ""Teddy @ B8LTKKxPBI"" (40.14) | #10 ""Thler @ p2tt-yMqE3"" (7.82)",2023-02-17T18:10:46.497Z,1.68E+14
+"-- starting hand #28 (id: nbupkwd89ttz)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:10:46.497Z,1.68E+14
+-- ending hand #27 --,2023-02-17T18:10:43.496Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 7.56 from pot",2023-02-17T18:10:43.496Z,1.68E+14
+"Uncalled bet of 7.56 returned to ""Teddy @ B8LTKKxPBI""",2023-02-17T18:10:43.496Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:10:42.664Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 7.56",2023-02-17T18:10:41.708Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:10:38.370Z,1.68E+14
+"River: Q‚ô¶, J‚ô•, 4‚ô£, Q‚ô† [2‚ô†]",2023-02-17T18:10:38.163Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 2.52",2023-02-17T18:10:37.356Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 2.52",2023-02-17T18:10:36.333Z,1.68E+14
+"Turn: Q‚ô¶, J‚ô•, 4‚ô£ [Q‚ô†]",2023-02-17T18:10:31.087Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:10:30.159Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.84",2023-02-17T18:10:27.511Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.84",2023-02-17T18:10:26.310Z,1.68E+14
+"Flop:  [Q‚ô¶, J‚ô•, 4‚ô£]",2023-02-17T18:10:23.079Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:10:22.199Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:10:20.763Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.28",2023-02-17T18:10:19.223Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a big blind of 0.08",2023-02-17T18:10:15.532Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:10:15.532Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (29.68) | #2 ""Teddy @ B8LTKKxPBI"" (36.22) | #10 ""Thler @ p2tt-yMqE3"" (8.10)",2023-02-17T18:10:15.532Z,1.68E+14
+"-- starting hand #27 (id: 7g5vqlai5pyo)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:10:15.532Z,1.68E+14
+-- ending hand #26 --,2023-02-17T18:10:09.481Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" shows a Q‚ô£, 7‚ô¶.",2023-02-17T18:10:09.481Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 6.00 from pot with Two Pair, K's & 4's (combination: K‚ô†, K‚ô¶, 4‚ô¶, 4‚ô£, 7‚ô£)",2023-02-17T18:10:09.481Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a 4‚ô¶, 7‚ô£.",2023-02-17T18:10:09.481Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T18:10:08.646Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:10:07.148Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:10:05.359Z,1.68E+14
+"River: 6‚ô•, 5‚ô¶, K‚ô†, 4‚ô£ [K‚ô¶]",2023-02-17T18:09:59.263Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 1.20",2023-02-17T18:09:58.386Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 1.20",2023-02-17T18:09:57.298Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 1.20",2023-02-17T18:09:56.007Z,1.68E+14
+"Turn: 6‚ô•, 5‚ô¶, K‚ô† [4‚ô£]",2023-02-17T18:09:52.536Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.48",2023-02-17T18:09:51.719Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.48",2023-02-17T18:09:50.683Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 0.48",2023-02-17T18:09:49.113Z,1.68E+14
+"Flop:  [6‚ô•, 5‚ô¶, K‚ô†]",2023-02-17T18:09:38.254Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.32",2023-02-17T18:09:37.342Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.32",2023-02-17T18:09:36.385Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.32",2023-02-17T18:09:34.816Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.08",2023-02-17T18:09:26.677Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:09:24.713Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:09:24.713Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (31.68) | #2 ""Teddy @ B8LTKKxPBI"" (32.22) | #10 ""Thler @ p2tt-yMqE3"" (10.10)",2023-02-17T18:09:24.713Z,1.68E+14
+"-- starting hand #26 (id: 3ncuwsnfjkjf)  (No Limit Texas Hold'em) (dealer: ""Teddy @ B8LTKKxPBI"") --",2023-02-17T18:09:24.713Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 8‚ô†, 5‚ô•.",2023-02-17T18:09:22.448Z,1.68E+14
+-- ending hand #25 --,2023-02-17T18:09:21.069Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 12.60 from pot",2023-02-17T18:09:21.069Z,1.68E+14
+"Uncalled bet of 19.08 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:09:21.069Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" folds",2023-02-17T18:09:20.244Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 19.08 and go all in",2023-02-17T18:09:16.026Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T18:09:13.548Z,1.68E+14
+"River: 8‚ô¶, 5‚ô†, J‚ô£, 2‚ô† [6‚ô¶]",2023-02-17T18:09:11.631Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 5.04",2023-02-17T18:09:10.694Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 5.04",2023-02-17T18:09:09.291Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 2.52",2023-02-17T18:09:05.644Z,1.68E+14
+"Turn: 8‚ô¶, 5‚ô†, J‚ô£ [2‚ô†]",2023-02-17T18:09:03.427Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.84",2023-02-17T18:09:02.556Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:08:59.693Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 0.84",2023-02-17T18:08:58.029Z,1.68E+14
+"Flop:  [8‚ô¶, 5‚ô†, J‚ô£]",2023-02-17T18:08:52.452Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.28",2023-02-17T18:08:51.628Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:08:47.804Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:08:45.985Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:08:42.010Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a small blind of 0.04",2023-02-17T18:08:42.010Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (25.24) | #2 ""Teddy @ B8LTKKxPBI"" (38.38) | #10 ""Thler @ p2tt-yMqE3"" (10.38)",2023-02-17T18:08:42.010Z,1.68E+14
+"-- starting hand #25 (id: w4lxqxzheeso)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:08:42.010Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a A‚ô•, 7‚ô¶.",2023-02-17T18:08:37.226Z,1.68E+14
+-- ending hand #24 --,2023-02-17T18:08:35.402Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 3.36 from pot",2023-02-17T18:08:35.402Z,1.68E+14
+"Uncalled bet of 3.36 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:08:35.402Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:08:34.584Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" folds",2023-02-17T18:08:22.130Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 4.20",2023-02-17T18:08:20.695Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.84",2023-02-17T18:08:18.471Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 0.84",2023-02-17T18:08:16.959Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:08:14.424Z,1.68E+14
+"Flop:  [10‚ô¶, 6‚ô¶, A‚ô¶]",2023-02-17T18:08:12.574Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:08:11.743Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:08:10.795Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.28",2023-02-17T18:08:09.309Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a big blind of 0.08",2023-02-17T18:08:04.021Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:08:04.021Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (23.00) | #2 ""Teddy @ B8LTKKxPBI"" (39.50) | #10 ""Thler @ p2tt-yMqE3"" (11.50)",2023-02-17T18:08:04.021Z,1.68E+14
+"-- starting hand #24 (id: 5vyolehehp1d)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:08:04.021Z,1.68E+14
+-- ending hand #23 --,2023-02-17T18:07:58.004Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 25.92 from pot with Three of a Kind, 8's (combination: 8‚ô•, 8‚ô£, 8‚ô¶, A‚ô¶, 7‚ô•)",2023-02-17T18:07:58.004Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a 8‚ô•, A‚ô¶.",2023-02-17T18:07:58.004Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 8.64",2023-02-17T18:07:57.196Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 8.64",2023-02-17T18:07:55.350Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:07:52.994Z,1.68E+14
+"River: 3‚ô•, 8‚ô£, 5‚ô•, 8‚ô¶ [7‚ô•]",2023-02-17T18:07:50.548Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 2.88",2023-02-17T18:07:49.700Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 2.88",2023-02-17T18:07:47.297Z,1.68E+14
+"Turn: 3‚ô•, 8‚ô£, 5‚ô• [8‚ô¶]",2023-02-17T18:07:44.344Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:07:43.441Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.96",2023-02-17T18:07:41.722Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.96",2023-02-17T18:07:40.356Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:07:37.172Z,1.68E+14
+"Flop:  [3‚ô•, 8‚ô£, 5‚ô•]",2023-02-17T18:07:34.343Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.32",2023-02-17T18:07:33.499Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.32",2023-02-17T18:07:29.961Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.32",2023-02-17T18:07:27.528Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.08",2023-02-17T18:07:24.465Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:07:23.532Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:07:23.532Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (35.80) | #2 ""Teddy @ B8LTKKxPBI"" (26.38) | #10 ""Thler @ p2tt-yMqE3"" (11.82)",2023-02-17T18:07:23.532Z,1.68E+14
+"-- starting hand #23 (id: a4i8rm6u0cpa)  (No Limit Texas Hold'em) (dealer: ""Teddy @ B8LTKKxPBI"") --",2023-02-17T18:07:23.532Z,1.68E+14
+-- ending hand #22 --,2023-02-17T18:07:17.530Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 0.20 from pot",2023-02-17T18:07:17.530Z,1.68E+14
+"Uncalled bet of 0.20 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:07:17.530Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:07:16.641Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" folds",2023-02-17T18:07:15.540Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:06:54.705Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:06:50.474Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a small blind of 0.04",2023-02-17T18:06:50.474Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (35.68) | #2 ""Teddy @ B8LTKKxPBI"" (26.42) | #10 ""Thler @ p2tt-yMqE3"" (11.90)",2023-02-17T18:06:50.474Z,1.68E+14
+"-- starting hand #22 (id: zzlrjnlz0rlt)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:06:50.474Z,1.68E+14
+-- ending hand #21 --,2023-02-17T18:06:42.467Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 26.42 from pot with Straight, J High on the second run  (combination: J‚ô†, 10‚ô¶, 9‚ô•, 8‚ô£, 7‚ô¶)",2023-02-17T18:06:42.467Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 26.42 from pot with Full House, 10's over 9's (combination: 10‚ô•, 10‚ô¶, 10‚ô†, 9‚ô¶, 9‚ô•)",2023-02-17T18:06:42.467Z,1.68E+14
+"River (second run): 7‚ô¶, 9‚ô•, 10‚ô¶, 3‚ô£ [K‚ô†]",2023-02-17T18:06:38.465Z,1.68E+14
+"River: 7‚ô¶, 9‚ô•, 10‚ô¶, 3‚ô£ [10‚ô†]",2023-02-17T18:06:34.460Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a 9‚ô¶, 10‚ô•.",2023-02-17T18:06:30.377Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 8‚ô£, J‚ô†.",2023-02-17T18:06:30.377Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T18:06:29.517Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T18:06:29.517Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" chooses to  run it twice.",2023-02-17T18:06:29.116Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T18:06:28.306Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 25.16",2023-02-17T18:06:28.306Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 25.16 and go all in",2023-02-17T18:06:26.953Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 17.64",2023-02-17T18:06:23.361Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 5.04",2023-02-17T18:06:20.690Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 2.52",2023-02-17T18:06:18.402Z,1.68E+14
+"Turn: 7‚ô¶, 9‚ô•, 10‚ô¶ [3‚ô£]",2023-02-17T18:06:16.103Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:06:15.249Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.84",2023-02-17T18:06:12.893Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.84",2023-02-17T18:06:10.784Z,1.68E+14
+"Flop:  [7‚ô¶, 9‚ô•, 10‚ô¶]",2023-02-17T18:06:07.767Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:06:06.910Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:05:58.300Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.28",2023-02-17T18:05:57.009Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a big blind of 0.08",2023-02-17T18:05:53.231Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:05:53.231Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (35.54) | #2 ""Teddy @ B8LTKKxPBI"" (26.28) | #10 ""Thler @ p2tt-yMqE3"" (12.18)",2023-02-17T18:05:53.231Z,1.68E+14
+"-- starting hand #21 (id: 8kjdwiae0ptr)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:05:53.231Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a Q‚ô£, 8‚ô•.",2023-02-17T18:05:49.967Z,1.68E+14
+-- ending hand #20 --,2023-02-17T18:05:46.624Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 9.00 from pot",2023-02-17T18:05:46.624Z,1.68E+14
+"Uncalled bet of 3.00 returned to ""Teddy @ B8LTKKxPBI""",2023-02-17T18:05:46.624Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:05:45.803Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 6.00",2023-02-17T18:05:44.875Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 3.00",2023-02-17T18:05:42.135Z,1.68E+14
+"Turn: A‚ô†, 5‚ô•, 4‚ô† [5‚ô†]",2023-02-17T18:05:39.540Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 1.20",2023-02-17T18:05:38.678Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 1.20",2023-02-17T18:05:37.554Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.60",2023-02-17T18:05:35.432Z,1.68E+14
+"Flop:  [A‚ô†, 5‚ô•, 4‚ô†]",2023-02-17T18:05:32.733Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:05:31.901Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:05:30.680Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 0.28",2023-02-17T18:05:20.780Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:05:18.322Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:05:18.322Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (40.02) | #2 ""Teddy @ B8LTKKxPBI"" (21.76) | #10 ""Thler @ p2tt-yMqE3"" (12.22)",2023-02-17T18:05:18.322Z,1.68E+14
+"-- starting hand #20 (id: wwsjislpiipk)  (No Limit Texas Hold'em) (dealer: ""Teddy @ B8LTKKxPBI"") --",2023-02-17T18:05:18.322Z,1.68E+14
+-- ending hand #19 --,2023-02-17T18:05:12.397Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 1.92 from pot",2023-02-17T18:05:12.397Z,1.68E+14
+"Uncalled bet of 1.92 returned to ""Teddy @ B8LTKKxPBI""",2023-02-17T18:05:12.397Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:05:11.593Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 1.92",2023-02-17T18:05:09.969Z,1.68E+14
+"Turn: 3‚ô†, J‚ô†, J‚ô£ [9‚ô†]",2023-02-17T18:05:07.390Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.64",2023-02-17T18:05:06.533Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.64",2023-02-17T18:05:04.989Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T18:05:01.816Z,1.68E+14
+"Flop:  [3‚ô†, J‚ô†, J‚ô£]",2023-02-17T18:04:58.839Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:04:58.029Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:04:53.250Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:04:48.545Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:04:44.780Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a small blind of 0.04",2023-02-17T18:04:44.780Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (40.94) | #2 ""Teddy @ B8LTKKxPBI"" (20.76) | #10 ""Thler @ p2tt-yMqE3"" (12.30)",2023-02-17T18:04:44.780Z,1.68E+14
+"-- starting hand #19 (id: j7kukkm2zjtq)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:04:44.780Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 5‚ô†, 6‚ô†.",2023-02-17T18:04:42.550Z,1.68E+14
+-- ending hand #18 --,2023-02-17T18:04:41.105Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 12.96 from pot",2023-02-17T18:04:41.105Z,1.68E+14
+"Uncalled bet of 4.88 returned to ""dere @ IB1rRLac0F""",2023-02-17T18:04:41.105Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" folds",2023-02-17T18:04:40.295Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 9.20",2023-02-17T18:04:37.365Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 4.32",2023-02-17T18:04:32.173Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:04:29.592Z,1.68E+14
+"River: 5‚ô£, J‚ô¶, 6‚ô•, A‚ô† [10‚ô•]",2023-02-17T18:04:28.566Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 1.44",2023-02-17T18:04:27.744Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 1.44",2023-02-17T18:04:26.769Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:04:24.460Z,1.68E+14
+"Turn: 5‚ô£, J‚ô¶, 6‚ô• [A‚ô†]",2023-02-17T18:04:22.294Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.48",2023-02-17T18:04:21.437Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.48",2023-02-17T18:04:20.554Z,1.68E+14
+"Flop:  [5‚ô£, J‚ô¶, 6‚ô•]",2023-02-17T18:04:17.279Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.24",2023-02-17T18:04:16.412Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.24",2023-02-17T18:04:15.357Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:04:12.531Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a big blind of 0.08",2023-02-17T18:04:11.160Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:04:11.160Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (34.46) | #2 ""Teddy @ B8LTKKxPBI"" (27.24) | #10 ""Thler @ p2tt-yMqE3"" (12.30)",2023-02-17T18:04:11.160Z,1.68E+14
+"-- starting hand #18 (id: rl3wji9vzrfu)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:04:11.160Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a 10‚ô†, 9‚ô¶.",2023-02-17T18:04:06.364Z,1.68E+14
+-- ending hand #17 --,2023-02-17T18:04:04.555Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" collected 0.24 from pot",2023-02-17T18:04:04.555Z,1.68E+14
+"Uncalled bet of 12.06 returned to ""Thler @ p2tt-yMqE3""",2023-02-17T18:04:04.555Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" folds",2023-02-17T18:04:03.721Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:04:02.773Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 12.14 and go all in",2023-02-17T18:03:59.189Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.08",2023-02-17T18:03:51.844Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:03:50.657Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:03:50.657Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (34.54) | #2 ""Teddy @ B8LTKKxPBI"" (27.32) | #10 ""Thler @ p2tt-yMqE3"" (12.14)",2023-02-17T18:03:50.657Z,1.68E+14
+"-- starting hand #17 (id: mlfhghj8bm8a)  (No Limit Texas Hold'em) (dealer: ""Teddy @ B8LTKKxPBI"") --",2023-02-17T18:03:50.657Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a 8‚ô†, 4‚ô•.",2023-02-17T18:03:46.458Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" shows a 6‚ô•, 7‚ô£.",2023-02-17T18:03:44.999Z,1.68E+14
+-- ending hand #16 --,2023-02-17T18:03:43.650Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 6.48 from pot with Two Pair, 8's & 2's (combination: 8‚ô¶, 8‚ô•, 2‚ô†, 2‚ô¶, A‚ô†)",2023-02-17T18:03:43.650Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 8‚ô¶, 2‚ô†.",2023-02-17T18:03:43.650Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 2.88",2023-02-17T18:03:42.800Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 2.88",2023-02-17T18:03:41.712Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 0.72",2023-02-17T18:03:39.204Z,1.68E+14
+"River: 5‚ô£, 2‚ô¶, A‚ô†, 9‚ô• [8‚ô•]",2023-02-17T18:03:36.536Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:03:35.692Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T18:03:34.622Z,1.68E+14
+"Turn: 5‚ô£, 2‚ô¶, A‚ô† [9‚ô•]",2023-02-17T18:03:33.220Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.24",2023-02-17T18:03:32.375Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:03:31.522Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 0.24",2023-02-17T18:03:30.117Z,1.68E+14
+"Flop:  [5‚ô£, 2‚ô¶, A‚ô†]",2023-02-17T18:03:26.932Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:03:26.099Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.08",2023-02-17T18:03:22.455Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.08",2023-02-17T18:03:21.490Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:03:19.607Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a small blind of 0.04",2023-02-17T18:03:19.607Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (31.26) | #2 ""Teddy @ B8LTKKxPBI"" (30.52) | #10 ""Thler @ p2tt-yMqE3"" (12.22)",2023-02-17T18:03:19.607Z,1.68E+14
+"-- starting hand #16 (id: gfclidijwjao)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:03:19.607Z,1.68E+14
+"The admin updated the player ""dere @ IB1rRLac0F"" stack from 13.26 to 31.26.",2023-02-17T18:03:19.607Z,1.68E+14
+-- ending hand #15 --,2023-02-17T18:03:13.601Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 1.00 from pot with Straight, 10 High (combination: 10‚ô¶, 9‚ô£, 8‚ô•, 7‚ô†, 6‚ô¶)",2023-02-17T18:03:13.601Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 10‚ô¶, 8‚ô•.",2023-02-17T18:03:13.601Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:03:12.779Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:03:04.557Z,1.68E+14
+"River: 4‚ô£, 6‚ô¶, 7‚ô†, 7‚ô£ [9‚ô£]",2023-02-17T18:03:01.693Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.08",2023-02-17T18:03:00.831Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" folds",2023-02-17T18:02:59.613Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.08",2023-02-17T18:02:58.382Z,1.68E+14
+"Turn: 4‚ô£, 6‚ô¶, 7‚ô† [7‚ô£]",2023-02-17T18:02:55.289Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:02:54.462Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T18:02:53.230Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:02:51.389Z,1.68E+14
+"Flop:  [4‚ô£, 6‚ô¶, 7‚ô†]",2023-02-17T18:02:49.576Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:02:48.728Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:02:47.805Z,1.68E+14
+"WARNING: the admin queued the stack change for the player ""dere @ IB1rRLac0F"" adding 18.00 chips in the next hand.",2023-02-17T18:02:45.403Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.28",2023-02-17T18:02:44.303Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a big blind of 0.08",2023-02-17T18:02:40.678Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:02:40.678Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (12.62) | #2 ""Teddy @ B8LTKKxPBI"" (30.80) | #10 ""Thler @ p2tt-yMqE3"" (12.58)",2023-02-17T18:02:40.678Z,1.68E+14
+"-- starting hand #15 (id: 1hynih9yyhtr)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:02:40.678Z,1.68E+14
+-- ending hand #14 --,2023-02-17T18:02:34.671Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 5.40 from pot",2023-02-17T18:02:34.671Z,1.68E+14
+"Uncalled bet of 5.40 returned to ""Teddy @ B8LTKKxPBI""",2023-02-17T18:02:34.671Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T18:02:33.797Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 5.40",2023-02-17T18:02:32.633Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:02:30.209Z,1.68E+14
+"Turn: 6‚ô†, 9‚ô¶, 8‚ô£ [A‚ô•]",2023-02-17T18:02:27.964Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 2.40",2023-02-17T18:02:27.147Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 2.40",2023-02-17T18:02:25.966Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.60",2023-02-17T18:02:23.213Z,1.68E+14
+"Flop:  [6‚ô†, 9‚ô¶, 8‚ô£]",2023-02-17T18:02:20.098Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:02:19.275Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:02:17.033Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:02:14.190Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.08",2023-02-17T18:02:05.502Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T18:02:04.282Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T18:02:04.282Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (15.30) | #2 ""Teddy @ B8LTKKxPBI"" (28.08) | #10 ""Thler @ p2tt-yMqE3"" (12.62)",2023-02-17T18:02:04.282Z,1.68E+14
+"-- starting hand #14 (id: rsktctxlcd4s)  (No Limit Texas Hold'em) (dealer: ""Teddy @ B8LTKKxPBI"") --",2023-02-17T18:02:04.282Z,1.68E+14
+-- ending hand #13 --,2023-02-17T18:01:58.250Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 1.68 from pot with Pair, Q's (combination: Q‚ô£, Q‚ô•, A‚ô•, K‚ô£, J‚ô†)",2023-02-17T18:01:58.250Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a 7‚ô¶, J‚ô†.",2023-02-17T18:01:58.250Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:01:57.429Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T18:01:54.374Z,1.68E+14
+"River: A‚ô•, K‚ô£, Q‚ô£, Q‚ô• [9‚ô†]",2023-02-17T18:01:52.122Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:01:51.276Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T18:01:49.856Z,1.68E+14
+"Turn: A‚ô•, K‚ô£, Q‚ô£ [Q‚ô•]",2023-02-17T18:01:47.922Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.42",2023-02-17T18:01:47.105Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:01:46.171Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 0.42",2023-02-17T18:01:41.290Z,1.68E+14
+"Flop:  [A‚ô•, K‚ô£, Q‚ô£]",2023-02-17T18:01:37.644Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.28",2023-02-17T18:01:36.823Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:01:35.650Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T18:01:33.908Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T18:01:31.428Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a small blind of 0.04",2023-02-17T18:01:31.428Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (16.00) | #2 ""Teddy @ B8LTKKxPBI"" (27.10) | #10 ""Thler @ p2tt-yMqE3"" (12.90)",2023-02-17T18:01:31.428Z,1.68E+14
+"-- starting hand #13 (id: cpyzaye3qddp)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T18:01:31.428Z,1.68E+14
+-- ending hand #12 --,2023-02-17T18:01:25.422Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 8‚ô•, K‚ô¶.",2023-02-17T18:01:25.422Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 6.30 from pot with Pair, 9's (combination: 9‚ô†, 9‚ô¶, 10‚ô†, 7‚ô¶, 4‚ô†)",2023-02-17T18:01:25.422Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a 9‚ô†, 3‚ô£.",2023-02-17T18:01:25.422Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:01:24.542Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 2.10",2023-02-17T18:01:23.458Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 2.10",2023-02-17T18:01:22.067Z,1.68E+14
+"River: 7‚ô¶, 10‚ô†, 4‚ô†, 9‚ô¶ [2‚ô£]",2023-02-17T18:01:18.619Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:01:17.729Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T18:01:14.080Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:01:06.033Z,1.68E+14
+"Turn: 7‚ô¶, 10‚ô†, 4‚ô† [9‚ô¶]",2023-02-17T18:01:04.209Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.42",2023-02-17T18:01:03.382Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.42",2023-02-17T18:01:02.041Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" bets 0.42",2023-02-17T18:01:00.328Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T18:00:45.409Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:00:43.269Z,1.68E+14
+"Flop:  [7‚ô¶, 10‚ô†, 4‚ô†]",2023-02-17T18:00:41.459Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T18:00:40.648Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T18:00:39.757Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.28",2023-02-17T18:00:38.392Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a big blind of 0.08",2023-02-17T18:00:33.006Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T18:00:33.006Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (18.80) | #2 ""Teddy @ B8LTKKxPBI"" (23.60) | #10 ""Thler @ p2tt-yMqE3"" (13.60)",2023-02-17T18:00:33.006Z,1.68E+14
+"-- starting hand #12 (id: u3cfq2gqnd21)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T18:00:33.006Z,1.68E+14
+-- ending hand #11 --,2023-02-17T18:00:27.002Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 2.48 from pot with Pair, Q's (combination: Q‚ô†, Q‚ô•, K‚ô¶, 9‚ô•, 8‚ô•)",2023-02-17T18:00:27.002Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a K‚ô¶, Q‚ô†.",2023-02-17T18:00:27.002Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.88",2023-02-17T18:00:26.195Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 0.88",2023-02-17T18:00:25.091Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:00:20.426Z,1.68E+14
+"River: 7‚ô†, 8‚ô•, 2‚ô£, Q‚ô• [9‚ô•]",2023-02-17T18:00:19.388Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T18:00:18.586Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:00:16.459Z,1.68E+14
+"Turn: 7‚ô†, 8‚ô•, 2‚ô£ [Q‚ô•]",2023-02-17T18:00:15.363Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T18:00:14.462Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.24",2023-02-17T18:00:13.314Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.24",2023-02-17T18:00:12.233Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T18:00:09.184Z,1.68E+14
+"Flop:  [7‚ô†, 8‚ô•, 2‚ô£]",2023-02-17T18:00:05.742Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T18:00:04.903Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.08",2023-02-17T18:00:04.023Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.08",2023-02-17T17:59:47.250Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T17:59:45.727Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T17:59:45.727Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (20.00) | #2 ""Teddy @ B8LTKKxPBI"" (22.32) | #10 ""Thler @ p2tt-yMqE3"" (13.68)",2023-02-17T17:59:45.727Z,1.68E+14
+"-- starting hand #11 (id: odvm5zoctvjx)  (No Limit Texas Hold'em) (dealer: ""Teddy @ B8LTKKxPBI"") --",2023-02-17T17:59:45.727Z,1.68E+14
+"The player ""dere @ IB1rRLac0F"" joined the game with a stack of 20.00.",2023-02-17T17:59:45.727Z,1.68E+14
+-- ending hand #10 --,2023-02-17T17:59:39.613Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 4.32 from pot with Straight, 8 High (combination: 8‚ô†, 7‚ô£, 6‚ô†, 5‚ô¶, 4‚ô£)",2023-02-17T17:59:39.613Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a 8‚ô†, 5‚ô¶.",2023-02-17T17:59:39.613Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 1.44",2023-02-17T17:59:38.771Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 1.44",2023-02-17T17:59:37.273Z,1.68E+14
+"River: K‚ô¶, J‚ô†, 4‚ô£, 6‚ô† [7‚ô£]",2023-02-17T17:59:34.203Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.48",2023-02-17T17:59:33.332Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 0.48",2023-02-17T17:59:31.916Z,1.68E+14
+"Turn: K‚ô¶, J‚ô†, 4‚ô£ [6‚ô†]",2023-02-17T17:59:29.400Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T17:59:28.525Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T17:59:25.615Z,1.68E+14
+"Flop:  [K‚ô¶, J‚ô†, 4‚ô£]",2023-02-17T17:59:24.197Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.24",2023-02-17T17:59:23.344Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 0.24",2023-02-17T17:59:22.083Z,1.68E+14
+"The admin approved the player ""dere @ IB1rRLac0F"" participation with a stack of 20.00.",2023-02-17T17:59:19.555Z,1.68E+14
+"The player ""dere @ IB1rRLac0F"" requested a seat.",2023-02-17T17:59:19.555Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a big blind of 0.08",2023-02-17T17:59:15.512Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T17:59:15.512Z,1.68E+14
+"Player stacks: #2 ""Teddy @ B8LTKKxPBI"" (20.16) | #10 ""Thler @ p2tt-yMqE3"" (15.84)",2023-02-17T17:59:15.512Z,1.68E+14
+"-- starting hand #10 (id: 3zq4ppvvuqwh)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T17:59:15.512Z,1.68E+14
+"The player ""dere @ IB1rRLac0F"" quits the game with a stack of 0.00.",2023-02-17T17:59:15.512Z,1.68E+14
+-- ending hand #9 --,2023-02-17T17:59:09.507Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" collected 12.64 from pot with Straight, 7 High (combination: 7‚ô£, 6‚ô•, 5‚ô¶, 4‚ô¶, 3‚ô•)",2023-02-17T17:59:09.507Z,1.68E+14
+"River: 4‚ô¶, 4‚ô•, 7‚ô£, 3‚ô• [3‚ô†]",2023-02-17T17:59:05.504Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" shows a 5‚ô¶, 6‚ô•.",2023-02-17T17:59:01.472Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 7‚ô•, A‚ô•.",2023-02-17T17:59:01.472Z,1.68E+14
+Some players choose to not run it twice.,2023-02-17T17:59:00.612Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" chooses to not run it twice.",2023-02-17T17:59:00.612Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T17:59:00.448Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T17:58:59.432Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 4.88",2023-02-17T17:58:59.432Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 4.88 and go all in",2023-02-17T17:58:58.181Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T17:58:55.549Z,1.68E+14
+"Turn: 4‚ô¶, 4‚ô•, 7‚ô£ [3‚ô•]",2023-02-17T17:58:53.669Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.96",2023-02-17T17:58:52.783Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" folds",2023-02-17T17:58:50.169Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.96",2023-02-17T17:58:49.211Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T17:58:47.070Z,1.68E+14
+"Flop:  [4‚ô¶, 4‚ô•, 7‚ô£]",2023-02-17T17:58:43.867Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.32",2023-02-17T17:58:42.992Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.32",2023-02-17T17:58:41.105Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.32",2023-02-17T17:58:39.825Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.08",2023-02-17T17:58:37.158Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.08",2023-02-17T17:58:29.868Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T17:58:28.567Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T17:58:28.567Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (6.16) | #2 ""Teddy @ B8LTKKxPBI"" (20.48) | #10 ""Thler @ p2tt-yMqE3"" (9.36)",2023-02-17T17:58:28.567Z,1.68E+14
+"-- starting hand #9 (id: tqwmwewbbco9)  (No Limit Texas Hold'em) (dealer: ""Teddy @ B8LTKKxPBI"") --",2023-02-17T17:58:28.567Z,1.68E+14
+-- ending hand #8 --,2023-02-17T17:58:20.558Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 10.24 from pot with Pair, 8's on the second run  (combination: 8‚ô¶, 8‚ô£, A‚ô•, K‚ô¶, 6‚ô•)",2023-02-17T17:58:20.558Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 10.24 from pot with Pair, 8's (combination: 8‚ô¶, 8‚ô£, A‚ô•, 6‚ô•, 5‚ô¶)",2023-02-17T17:58:20.558Z,1.68E+14
+"River (second run): 6‚ô•, 4‚ô¶, 5‚ô¶, 8‚ô£ [K‚ô¶]",2023-02-17T17:58:16.546Z,1.68E+14
+"River: 6‚ô•, 4‚ô¶, 5‚ô¶, 8‚ô£ [3‚ô•]",2023-02-17T17:58:12.479Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a 8‚ô¶, A‚ô•.",2023-02-17T17:58:08.438Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a J‚ô¶, 8‚ô•.",2023-02-17T17:58:08.438Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T17:58:07.587Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" chooses to  run it twice.",2023-02-17T17:58:07.587Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T17:58:07.445Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T17:58:06.439Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 9.28",2023-02-17T17:58:06.439Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 9.28 and go all in",2023-02-17T17:58:03.048Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 1.92",2023-02-17T17:58:00.068Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T17:57:57.113Z,1.68E+14
+"Turn: 6‚ô•, 4‚ô¶, 5‚ô¶ [8‚ô£]",2023-02-17T17:57:55.849Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.64",2023-02-17T17:57:55.037Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 0.64",2023-02-17T17:57:53.912Z,1.68E+14
+"Flop:  [6‚ô•, 4‚ô¶, 5‚ô¶]",2023-02-17T17:57:50.632Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T17:57:49.767Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T17:57:48.671Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T17:57:47.157Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T17:57:45.110Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a small blind of 0.04",2023-02-17T17:57:45.110Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (16.36) | #2 ""Teddy @ B8LTKKxPBI"" (10.20) | #10 ""Thler @ p2tt-yMqE3"" (9.44)",2023-02-17T17:57:45.110Z,1.68E+14
+"-- starting hand #8 (id: 4xpj1eevbwvx)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T17:57:45.110Z,1.68E+14
+-- ending hand #7 --,2023-02-17T17:57:39.191Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 2.40 from pot",2023-02-17T17:57:39.191Z,1.68E+14
+"Uncalled bet of 2.40 returned to ""Teddy @ B8LTKKxPBI""",2023-02-17T17:57:39.191Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T17:57:38.342Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 3.52",2023-02-17T17:57:37.502Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 1.12",2023-02-17T17:57:33.763Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 0.32",2023-02-17T17:57:31.440Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.16",2023-02-17T17:57:28.751Z,1.68E+14
+"Flop:  [K‚ô¶, A‚ô¶, 8‚ô•]",2023-02-17T17:57:26.099Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T17:57:25.254Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.08",2023-02-17T17:57:23.934Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T17:57:22.994Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a big blind of 0.08",2023-02-17T17:57:19.427Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T17:57:19.427Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (17.56) | #2 ""Teddy @ B8LTKKxPBI"" (9.00) | #10 ""Thler @ p2tt-yMqE3"" (9.44)",2023-02-17T17:57:19.427Z,1.68E+14
+"-- starting hand #7 (id: r5hpupevoceq)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T17:57:19.427Z,1.68E+14
+-- ending hand #6 --,2023-02-17T17:57:13.482Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 0.60 from pot",2023-02-17T17:57:13.482Z,1.68E+14
+"Uncalled bet of 8.40 returned to ""Teddy @ B8LTKKxPBI""",2023-02-17T17:57:13.482Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T17:57:12.671Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 8.40 and go all in",2023-02-17T17:57:11.746Z,1.68E+14
+"""dere @ IB1rRLac0F"" checks",2023-02-17T17:57:08.038Z,1.68E+14
+"Flop:  [8‚ô†, 7‚ô£, K‚ô£]",2023-02-17T17:57:07.158Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.28",2023-02-17T17:57:06.316Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T17:57:05.447Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 0.28",2023-02-17T17:57:04.332Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T17:57:00.267Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T17:57:00.267Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (17.84) | #2 ""Teddy @ B8LTKKxPBI"" (8.68) | #10 ""Thler @ p2tt-yMqE3"" (9.48)",2023-02-17T17:57:00.267Z,1.68E+14
+"-- starting hand #6 (id: whh7hpv0llqo)  (No Limit Texas Hold'em) (dealer: ""Teddy @ B8LTKKxPBI"") --",2023-02-17T17:57:00.267Z,1.68E+14
+-- ending hand #5 --,2023-02-17T17:56:54.346Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" collected 7.56 from pot",2023-02-17T17:56:54.346Z,1.68E+14
+"Uncalled bet of 1.92 returned to ""Thler @ p2tt-yMqE3""",2023-02-17T17:56:54.346Z,1.68E+14
+"""dere @ IB1rRLac0F"" folds",2023-02-17T17:56:53.466Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" raises to 4.44 and go all in",2023-02-17T17:56:46.807Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 2.52",2023-02-17T17:56:35.435Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T17:56:33.018Z,1.68E+14
+"Turn: A‚ô•, K‚ô£, 7‚ô£ [J‚ô£]",2023-02-17T17:56:30.335Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.84",2023-02-17T17:56:29.481Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" folds",2023-02-17T17:56:23.821Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.84",2023-02-17T17:56:19.067Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T17:56:16.890Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T17:56:15.030Z,1.68E+14
+"Flop:  [A‚ô•, K‚ô£, 7‚ô£]",2023-02-17T17:56:12.979Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.28",2023-02-17T17:56:12.157Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T17:56:10.432Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T17:56:09.478Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T17:56:07.122Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a small blind of 0.04",2023-02-17T17:56:07.122Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (21.48) | #2 ""Teddy @ B8LTKKxPBI"" (8.96) | #10 ""Thler @ p2tt-yMqE3"" (5.56)",2023-02-17T17:56:07.122Z,1.68E+14
+"-- starting hand #5 (id: bsy0xofjdavj)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T17:56:07.122Z,1.68E+14
+-- ending hand #4 --,2023-02-17T17:56:01.115Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 12.96 from pot with Two Pair, 9's & 8's (combination: 9‚ô•, 9‚ô¶, 8‚ô£, 8‚ô•, 7‚ô•)",2023-02-17T17:56:01.115Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 8‚ô£, 9‚ô•.",2023-02-17T17:56:01.115Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 4.32",2023-02-17T17:56:00.214Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 4.32",2023-02-17T17:55:59.028Z,1.68E+14
+"River: 7‚ô•, 9‚ô¶, 8‚ô•, 5‚ô† [3‚ô¶]",2023-02-17T17:55:55.901Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 1.44",2023-02-17T17:55:55.063Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 1.44",2023-02-17T17:55:54.107Z,1.68E+14
+"Turn: 7‚ô•, 9‚ô¶, 8‚ô• [5‚ô†]",2023-02-17T17:55:50.962Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.48",2023-02-17T17:55:50.142Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.48",2023-02-17T17:55:49.059Z,1.68E+14
+"Flop:  [7‚ô•, 9‚ô¶, 8‚ô•]",2023-02-17T17:55:45.358Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.24",2023-02-17T17:55:44.505Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.24",2023-02-17T17:55:43.344Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T17:55:41.031Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a big blind of 0.08",2023-02-17T17:55:38.494Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T17:55:38.494Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (15.00) | #2 ""Teddy @ B8LTKKxPBI"" (15.44) | #10 ""Thler @ p2tt-yMqE3"" (5.56)",2023-02-17T17:55:38.494Z,1.68E+14
+"-- starting hand #4 (id: 8ul3nezmapok)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T17:55:38.494Z,1.68E+14
+"The admin updated the player ""dere @ IB1rRLac0F"" stack from 0.00 to 15.00.",2023-02-17T17:55:38.494Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 9‚ô£, 3‚ô¶.",2023-02-17T17:55:34.058Z,1.68E+14
+-- ending hand #3 --,2023-02-17T17:55:31.892Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" collected 1.44 from pot with Pair, 10's (combination: 10‚ô¶, 10‚ô£, Q‚ô¶, J‚ô•, 8‚ô•)",2023-02-17T17:55:31.892Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" shows a Q‚ô¶, 10‚ô¶.",2023-02-17T17:55:31.892Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T17:55:30.985Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T17:55:29.537Z,1.68E+14
+"River: 2‚ô†, J‚ô•, 4‚ô¶, 10‚ô£ [8‚ô•]",2023-02-17T17:55:22.532Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T17:55:21.710Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T17:55:20.727Z,1.68E+14
+"Turn: 2‚ô†, J‚ô•, 4‚ô¶ [10‚ô£]",2023-02-17T17:55:18.081Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T17:55:17.276Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" checks",2023-02-17T17:55:16.338Z,1.68E+14
+"Flop:  [2‚ô†, J‚ô•, 4‚ô¶]",2023-02-17T17:55:13.277Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.48",2023-02-17T17:55:12.461Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.48",2023-02-17T17:55:10.897Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.48 and go all in",2023-02-17T17:55:09.684Z,1.68E+14
+"WARNING: the admin queued the stack change for the player ""dere @ IB1rRLac0F"" adding 15.00 chips in the next hand.",2023-02-17T17:55:06.205Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.08",2023-02-17T17:55:04.536Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.08",2023-02-17T17:55:02.273Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a big blind of 0.08",2023-02-17T17:55:00.714Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a small blind of 0.04",2023-02-17T17:55:00.714Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (0.48) | #2 ""Teddy @ B8LTKKxPBI"" (15.92) | #10 ""Thler @ p2tt-yMqE3"" (4.60)",2023-02-17T17:55:00.714Z,1.68E+14
+"-- starting hand #3 (id: ef4vwy8oy3wh)  (No Limit Texas Hold'em) (dealer: ""Teddy @ B8LTKKxPBI"") --",2023-02-17T17:55:00.714Z,1.68E+14
+-- ending hand #2 --,2023-02-17T17:54:52.708Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 7.96 from pot with Three of a Kind, A's on the second run  (combination: A‚ô•, A‚ô†, A‚ô¶, J‚ô£, 9‚ô•)",2023-02-17T17:54:52.708Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" collected 7.96 from pot with Flush, As High (combination: A‚ô†, 8‚ô†, 6‚ô†, 4‚ô†, 3‚ô†)",2023-02-17T17:54:52.708Z,1.68E+14
+"River (second run): 8‚ô†, 6‚ô†, 9‚ô•, J‚ô£ [A‚ô¶]",2023-02-17T17:54:48.704Z,1.68E+14
+"Turn (second run): 8‚ô†, 6‚ô†, 9‚ô• [J‚ô£]",2023-02-17T17:54:44.653Z,1.68E+14
+"River: 8‚ô†, 6‚ô†, 9‚ô•, 3‚ô† [4‚ô†]",2023-02-17T17:54:40.522Z,1.68E+14
+"Turn: 8‚ô†, 6‚ô†, 9‚ô• [3‚ô†]",2023-02-17T17:54:36.504Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" shows a A‚ô•, A‚ô†.",2023-02-17T17:54:32.488Z,1.68E+14
+"""dere @ IB1rRLac0F"" shows a 10‚ô¶, 9‚ô£.",2023-02-17T17:54:32.488Z,1.68E+14
+All players in hand choose to run it twice.,2023-02-17T17:54:31.629Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" chooses to  run it twice.",2023-02-17T17:54:31.629Z,1.68E+14
+"""dere @ IB1rRLac0F"" chooses to  run it twice.",2023-02-17T17:54:31.409Z,1.68E+14
+Remaining players decide whether to run it twice.,2023-02-17T17:54:30.445Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 7.64",2023-02-17T17:54:30.445Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" raises to 7.64 and go all in",2023-02-17T17:54:28.501Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 2.08",2023-02-17T17:54:25.420Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" bets 0.48",2023-02-17T17:54:21.771Z,1.68E+14
+"Flop:  [8‚ô†, 6‚ô†, 9‚ô•]",2023-02-17T17:54:17.817Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T17:54:16.903Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" calls 0.28",2023-02-17T17:54:15.329Z,1.68E+14
+"""dere @ IB1rRLac0F"" raises to 0.28",2023-02-17T17:54:14.297Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" posts a big blind of 0.08",2023-02-17T17:54:11.216Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a small blind of 0.04",2023-02-17T17:54:11.216Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (8.40) | #2 ""Teddy @ B8LTKKxPBI"" (7.92) | #10 ""Thler @ p2tt-yMqE3"" (4.68)",2023-02-17T17:54:11.216Z,1.68E+14
+"-- starting hand #2 (id: ksvc725ha0t3)  (No Limit Texas Hold'em) (dealer: ""dere @ IB1rRLac0F"") --",2023-02-17T17:54:11.216Z,1.68E+14
+-- ending hand #1 --,2023-02-17T17:54:05.210Z,1.68E+14
+"""dere @ IB1rRLac0F"" collected 0.72 from pot",2023-02-17T17:54:05.210Z,1.68E+14
+"Uncalled bet of 0.72 returned to ""dere @ IB1rRLac0F""",2023-02-17T17:54:05.210Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" folds",2023-02-17T17:54:04.349Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.72",2023-02-17T17:54:01.482Z,1.68E+14
+"Turn: 9‚ô¶, 9‚ô£, Q‚ô¶ [8‚ô•]",2023-02-17T17:53:59.407Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.24",2023-02-17T17:53:58.501Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" folds",2023-02-17T17:53:57.049Z,1.68E+14
+"""dere @ IB1rRLac0F"" bets 0.24",2023-02-17T17:53:55.752Z,1.68E+14
+"Flop:  [9‚ô¶, 9‚ô£, Q‚ô¶]",2023-02-17T17:53:52.399Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" checks",2023-02-17T17:53:51.534Z,1.68E+14
+"""dere @ IB1rRLac0F"" calls 0.08",2023-02-17T17:53:50.652Z,1.68E+14
+"""Thler @ p2tt-yMqE3"" calls 0.08",2023-02-17T17:53:49.696Z,1.68E+14
+"""Teddy @ B8LTKKxPBI"" posts a big blind of 0.08",2023-02-17T17:53:37.713Z,1.68E+14
+"""dere @ IB1rRLac0F"" posts a small blind of 0.04",2023-02-17T17:53:37.713Z,1.68E+14
+"Player stacks: #1 ""dere @ IB1rRLac0F"" (8.00) | #2 ""Teddy @ B8LTKKxPBI"" (8.00) | #10 ""Thler @ p2tt-yMqE3"" (5.00)",2023-02-17T17:53:37.713Z,1.68E+14
+"The player ""Thler @ p2tt-yMqE3"" joined the game with a stack of 5.00.",2023-02-17T17:53:37.713Z,1.68E+14
+"The player ""Teddy @ B8LTKKxPBI"" joined the game with a stack of 8.00.",2023-02-17T17:53:37.713Z,1.68E+14
+"The player ""dere @ IB1rRLac0F"" joined the game with a stack of 8.00.",2023-02-17T17:53:37.713Z,1.68E+14
+"-- starting hand #1 (id: uojb15mgcsmg)  (No Limit Texas Hold'em) (dealer: ""Thler @ p2tt-yMqE3"") --",2023-02-17T17:53:37.713Z,1.68E+14
+"The player ""Teddy @ B8LTKKxPBI"" sit back with the stack of 8.00.",2023-02-17T17:53:31.341Z,1.68E+14
+"The admin approved the player ""Thler @ p2tt-yMqE3"" participation with a stack of 5.00.",2023-02-17T17:53:19.470Z,1.68E+14
+"The player ""Thler @ p2tt-yMqE3"" requested a seat.",2023-02-17T17:53:15.397Z,1.68E+14
+"The player ""Teddy @ B8LTKKxPBI"" stand up with the stack of 8.00.",2023-02-17T17:52:46.326Z,1.68E+14
+"The admin approved the player ""Teddy @ B8LTKKxPBI"" participation with a stack of 8.00.",2023-02-17T17:52:29.699Z,1.68E+14
+"The player ""Teddy @ B8LTKKxPBI"" requested a seat.",2023-02-17T17:52:23.822Z,1.68E+14
+"The admin approved the player ""dere @ IB1rRLac0F"" participation with a stack of 8.00.",2023-02-17T17:52:00.116Z,1.68E+14
+"The player ""dere @ IB1rRLac0F"" requested a seat.",2023-02-17T17:52:00.116Z,1.68E+14
+The game's ante was changed from 0.00 to 0.00.,2023-02-17T17:51:56.540Z,1.68E+14
+The game's big blind was changed from 0.20 to 0.08.,2023-02-17T17:51:56.540Z,1.68E+14
+The game's small blind was changed from 0.10 to 0.04.,2023-02-17T17:51:56.540Z,1.68E+14
